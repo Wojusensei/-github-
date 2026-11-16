@@ -356,6 +356,15 @@ GitHub 上查到的：
 > 事情败露后的作者：
 ---
 
+## 你仓社区
+
+近两年此类[AI SLOP](https://baike.baidu.com/item/AI%E5%9E%83%E5%9C%BE/67311830?fromModule=search-result_lemma)仓库总是能引来一群像我这样来自各大社交媒体的乐子人来酣畅淋漓地进行一个叫做[赤石](https://baike.baidu.com/item/%E8%B5%A4%E7%9F%B3?fromModule=lemma_search-box)的神秘活动，你仓作为十一月以来最幽默仓库自然也是难逃此劫。不幸的是，乐子人里也不乏认真品鉴过[史山代码](https://blog.csdn.net/h_TVT/article/details/146842502)并提出批评的开发者，这下[作者](https://github.com/DandanLLab)可惨了
+
+<img width="1920" height="849" alt="4b5cdf0b83b90a76013c1b34cca1e75b" src="https://github.com/user-attachments/assets/f9c01a16-4198-4a8a-b527-af573ea3c775" />
+
+> 不过幸运的是作者似乎让dsh独自承担了所有活力，可以看到几乎所有社区回复的含人量都严格卡死在百分之[葛立恒数](https://baike.baidu.com/item/%E8%91%9B%E7%AB%8B%E6%81%92%E6%95%B0?fromModule=lemma_search-box)的**倒数**以下，这下大肥鱼可惨了
+
+
 ## 宇宙安全声明
 
 本文在取材原则上坚决只使用公开可访问的材料，例如仓库内容、git 历史、GitHub API 返回、B 站公开主页与公开评论区，且严肃区分可核验事实与主观判断。

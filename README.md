@@ -362,7 +362,7 @@ GitHub 上查到的：
 
 <img width="1920" height="849" alt="4b5cdf0b83b90a76013c1b34cca1e75b" src="https://github.com/user-attachments/assets/f9c01a16-4198-4a8a-b527-af573ea3c775" />
 
-> 不过幸运的是作者似乎让dsh独自承担了所有活力，可以看到几乎所有社区回复的含人量都严格卡死在百分之[葛立恒数](https://baike.baidu.com/item/%E8%91%9B%E7%AB%8B%E6%81%92%E6%95%B0?fromModule=lemma_search-box)的**倒数**以下，这下大肥鱼可惨了
+> 不过幸运的是作者似乎让dsh独自承担了所有火力，可以看到几乎所有社区回复的含人量都严格卡死在[葛立恒数](https://baike.baidu.com/item/%E8%91%9B%E7%AB%8B%E6%81%92%E6%95%B0?fromModule=lemma_search-box)分之一以下，这下大肥鱼可惨了
 
 
 ## 宇宙安全声明

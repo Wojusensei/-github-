@@ -10,12 +10,14 @@
 
 <img width="1844" height="1336" alt="image" src="https://github.com/user-attachments/assets/63bc28d5-c808-4f1d-b741-d4099841b9a8" />
 
-> `有制作这么精良的logo，这种协议端你什么时候用`
+> 哇啊啊有制作这么精良的logo，这种协议端你什么时候用
 
 
 光看名字就知道是要吃[nc](https://github.com/NapNeko/NapCatQQ)和sl[人血馒头](https://baike.baidu.com/item/%E4%BA%BA%E8%A1%80%E9%A6%92%E5%A4%B4?fromModule=lemma_search-box)，打算趁着两个协议端跑路包圆这一块的热度，事实上其开发者称自己的行为为“接续先行者铺下的路”；那么这个仓库在开源社区里究竟是一个什么东西呢？
 
-史家据史直书，一字不改！😡 且不说 [拉格兰](https://github.com/LagrangeDev/Lagrange.Core) 这种还在更新的协议库（它甚至已经把自己的 OneBot 端换成 Milky 了而与此同时 [SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) 还在 [读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里把 Milky 当成自己的兼容层卖点）；事实上倘若[雪猫](https://github.com/DandanLLab/SnowCatQQ)是个好协议端，在开源社区继续维护已经归档的仓库此类行为本身也是个好事——但是这个仓库实在是极为抽象以至于我在多个技术交流为主的QQ群都看到有群u对此事件发表锐评了，本着实事求是的想法，我想我也必须得对此仓库进行轰轰烈烈的真理大讨论了
+史家据史直书，一字不改！
+
+且不说 [拉格兰](https://github.com/LagrangeDev/Lagrange.Core) 这种还在更新的协议库（它甚至已经把自己的 OneBot 端换成 Milky 了而与此同时 [SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) 还在 [读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里把 Milky 当成自己的兼容层卖点）；事实上倘若[雪猫](https://github.com/DandanLLab/SnowCatQQ)是个好协议端，在开源社区继续维护已经归档的仓库此类行为本身也是个好事——但是这个仓库实在是极为抽象以至于我在多个技术交流为主的QQ群都看到有群u对此事件发表锐评了，本着实事求是的想法，我想我也必须得对此仓库进行轰轰烈烈的真理大讨论了
 
 全文除了玩梗不掺杂纯粹人身攻击，要说不带感情来评价这坨[旷世巨奋](https://github.com/DandanLLab/SnowCatQQ)是不可能的了因为我不相信有人看完这个仓库底下的一些 [issue](https://github.com/DandanLLab/SnowCatQQ/issues/13) 能忍住不笑出来以至于不产生“这波贪了应该再等几个月留着春晚看的”的想法——故请读者读完**自行得出自己的结论，不要跟着我起哄**，一人做事一人担
 

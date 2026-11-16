@@ -154,7 +154,7 @@ A：你只是怕了
 
 > Copyright (c) 2024 bietiaop
 
-这份文件甚至连改都没有改过，一个字节都不带差的，于是[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里那句"雪猫控制台（React + Tailwind + HeroUI 全面重制）"里的"重制"二字就非常有灵性了——~~重制之后连人家的名字都留着，只能说尊重原作者这块，建议全体开源爱好者学习伟大的致敬精神~~
+这份文件甚至连改都没有改过，一个字节都不带差的，于是[瑞德米.马克到](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里那句"雪猫控制台（React + Tailwind + HeroUI 全面重制）"里的"重制"二字就非常有灵性了——~~重制之后连人家的名字都留着，只能说尊重原作者这块，建议全体开源爱好者学习伟大的致敬精神~~
 
 与此同时，另一边 `snowcat-dpapi` 那份 MIT 是 [@primno/dpapi](https://www.npmjs.com/package/@primno/dpapi) 的，是 Xavier Monin 的，不过这个倒是正常的第三方依赖声明，问题在于**为什么一个 npm 依赖的 LICENSE 会被复制进仓库根目录的 packages 里**呢？
 

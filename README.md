@@ -27,26 +27,29 @@
 
 <img width="1080" height="1480" alt="image" src="https://github.com/user-attachments/assets/eee93628-4ba1-4377-af7d-99924cf52979" />
 
-### 定论：彻彻底底的 AI SLOP
+### 定论：彻彻底底的 [AI SLOP](https://baike.baidu.com/item/AI%E5%9E%83%E5%9C%BE/67311830?fromModule=search-result_lemma)
 事先叠甲：[本人](https://github.com/Wojusensei)绝对尊重开源精神，支持使用 ai agent 进行辅助开发甚至于是承担 99% 的代码工作，只要是认真写好任务规划做好人工测试和 review 过核心模块的项目，使用ai并不会降低其含金量（提高生产力的事情为什么不做）。本人只反对一味鼓吹 ai 可以完全替代程序员、幻想利用ai可以不用学习任何东西就驾驭软件开发的傻逼而已（至少我认为这句话在2027年之前都是生效的）
 
 <img width="1080" height="869" alt="a5bf9db307c7dc40eae26478f531c48b_720" src="https://github.com/user-attachments/assets/8a7d2189-3afe-469a-9afd-61acfca2b29d" />
 
 > 事实上我也完全支持 [linus](https://baike.baidu.com/item/%E6%9E%97%E7%BA%B3%E6%96%AF%C2%B7%E6%9C%AC%E7%BA%B3%E7%AC%AC%E5%85%8B%E7%89%B9%C2%B7%E6%89%98%E7%93%A6%E5%85%B9?fromtitle=linus&fromid=400810&fromModule=lemma_search-box) 的意见
 
-我不知道这玩意是怎么让他有信心讲自己是“墨家开山授徒，将守城之法、造械之术倾囊相授”的，可能是这神秘开发者给dsh的prompt里面叫agent称呼自己为“师傅”而ai本身又只能遵从用户的命令所以只好捏着鼻子陪ta玩这种小孩子都觉得中二病的RP；总而言之给我的第一印象又是那种觉得“所有人都不会用ai只有我会”的[vibe coding](https://baike.baidu.com/item/%E6%B0%9B%E5%9B%B4%E7%BC%96%E7%A8%8B?fromModule=lemma_search-box)cosplay程序员的爱好者
+我不知道这玩意是怎么让他有信心讲自己是“墨家开山授徒，将守城之法、造械之术倾囊相授”的，可能是这神秘开发者给dsh的prompt里面叫agent称呼自己为“师傅”而ai本身又只能遵从用户的命令所以只好捏着鼻子陪ta玩这种小孩子都觉得中二病的[RP](https://baike.baidu.com/item/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/68462)；总而言之给我的第一印象又是那种觉得“所有人都不会用ai只有我会”的[vibe coding](https://baike.baidu.com/item/%E6%B0%9B%E5%9B%B4%E7%BC%96%E7%A8%8B?fromModule=lemma_search-box)cosplay程序员的爱好者
+
+只能说开智了自己会删库系列
 
 <img width="972" height="972" alt="5465ad966105cda549586050b160d04f" src="https://github.com/user-attachments/assets/de845ad8-5d41-42b8-b378-4123672ce515" />
 
 > 作者眼里的所有人
 
 
-当我看到那个[SVG](https://baike.baidu.com/item/%E5%8F%AF%E7%BC%A9%E6%94%BE%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2/22819739?fromtitle=SVG&fromid=63178)logo的时候我就知道开源社区又迎来了一坨属于它的大分，精美程度和[豆包](https://baike.baidu.com/item/%E8%B1%86%E5%8C%85%E5%B7%A5%E4%BD%9C?fromModule=lemma_search-box)画的[鹈鹕自行车](https://baike.baidu.com/item/%E9%B9%88%E9%B9%95%E8%B8%A9%E5%8D%95%E8%BD%A6/69165703?fromModule=search-result_lemma)一桌，可谓是低山臭水遇至阴穷凶极恶双子星———很显然可以从文档语气等地方看出作者本人对此项目还算是骄傲的，而这样一个让其本人骄傲的项目居然有一个这么应付的招牌logo
+当我看到那个[SVG](https://baike.baidu.com/item/%E5%8F%AF%E7%BC%A9%E6%94%BE%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2/22819739?fromtitle=SVG&fromid=63178)logo的时候我就知道开源社区又迎来了一坨属于它的大分，精美程度和[豆包](https://baike.baidu.com/item/%E8%B1%86%E5%8C%85%E5%B7%A5%E4%BD%9C?fromModule=lemma_search-box)画的[鹈鹕自行车](https://baike.baidu.com/item/%E9%B9%88%E9%B9%95%E8%B8%A9%E5%8D%95%E8%BD%A6/69165703?fromModule=search-result_lemma)一桌，可谓是低山臭水遇至阴穷凶极恶双子星———很显然可以从文档语气等地方看出作者本人对此项目还算是骄傲的，而这样一个让其本人骄傲的项目居然有一个这么应付的招牌logo，有趣的是作者在提交记录中居然声称自己是手绘的，令人忍俊不禁
 
 <img width="1170" height="828" alt="cef167699c2a08b831f0a18bb89ef25e" src="https://github.com/user-attachments/assets/62928d3d-1d07-4d54-98a5-d44ca1f0a510" />
 
 > 作者的审美堪比两斤牛肉
 
+不可否认的是，[作者](https://github.com/DandanLLab)是一名熟练使用 **Chinese++** 编程语言进行开发的优秀程序员，而且具有充足的胆魄以至于其居然有勇气将这等[本世纪最伟大的作品](https://baike.baidu.com/item/AI%E5%9E%83%E5%9C%BE/67311830?fromModule=search-result_lemma) push 到开源社区给所有无辜的用户品鉴，果真是[吾辈楷模](https://baike.baidu.com/item/%E5%98%89%E8%B1%AA/66804028?fromModule=disambiguation)
 
 ### 时至今日，作者的左右脑还未和解，愿世界和平
 
@@ -342,7 +345,7 @@ GitHub 上查到的：
 
 而章程第 7 条的措辞是"构建失败的 **PR** 不合并"。它把规则限定在 PR 上，所以直推 main 的失败永远不在规则覆盖范围内
 
-其实在开发者自己知根知底的情况下这是可以被允许的但是很显然[蛋蛋呀](https://github.com/DandanLLab)这个抽象玩意自己根本就没对这整个项目有什么理解，这事情的抽象程度在于好比说自己家茅厕很干净不许别人乱用然后被别人发现里面有一条[灭霸](https://baike.baidu.com/item/%E7%81%AD%E9%9C%B8/3106434)手臂粗的黄金巨蟒
+其实在开发者自己知根知底的情况下这是可以被允许的但是很显然[蛋蛋呀](https://github.com/DandanLLab)这个抽象玩意自己根本就没对这整个项目有什么理解，这事情的抽象程度在于好比说自己家茅厕很干净不许别人乱用然后被别人发现里面有一条[灭霸](https://baike.baidu.com/item/%E7%81%AD%E9%9C%B8/3106434)手臂粗的黄金巨蟒，这谁绷得住
 
 <img width="654" height="754" alt="image" src="https://github.com/user-attachments/assets/146ce6d6-9228-4247-9c76-83f9c64ac3c2" />
 

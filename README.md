@@ -37,7 +37,7 @@
 
 当我看到那个[SVG](https://baike.baidu.com/item/%E5%8F%AF%E7%BC%A9%E6%94%BE%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2/22819739?fromtitle=SVG&fromid=63178)logo的时候我就知道开源社区又迎来了一坨属于它的大分，精美程度和[豆包](https://baike.baidu.com/item/%E8%B1%86%E5%8C%85%E5%B7%A5%E4%BD%9C?fromModule=lemma_search-box)画的[鹈鹕自行车](https://baike.baidu.com/item/%E9%B9%88%E9%B9%95%E8%B8%A9%E5%8D%95%E8%BD%A6/69165703?fromModule=search-result_lemma)一桌，可谓是低山臭水遇至阴穷凶极恶双子星———很显然可以从文档语气等地方看出作者本人对此项目还算是骄傲的，而这样一个让其本人骄傲的项目居然有一个这么应付的招牌logo
 
-<img width="972" height="972" alt="5465ad966105cda549586050b160d04f" src="https://github.com/user-attachments/assets/6cfc0b4a-90db-49c8-ab96-a7821587e2bf" />
+<img width="1170" height="828" alt="cef167699c2a08b831f0a18bb89ef25e" src="https://github.com/user-attachments/assets/62928d3d-1d07-4d54-98a5-d44ca1f0a510" />
 
 > 作者的审美堪比两斤牛肉
 

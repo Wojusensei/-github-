@@ -191,7 +191,7 @@
 
 我勒个终审失误，你[这项目一共就俩人](#)，一个是左脑一个是右脑，感情俩人审了三天都认为 MIT 是对的
 
-<img width="1024" height="1010" alt="73d59bc5282d5d122d722c51884a6aa3" src="https://github.com/user-attachments/assets/f145ebae-0ba2-445b-8b26-081535661376" />
+<img width="827" height="826" alt="e22e7bcb3ebaf289b3d22c4f28484c7c" src="https://github.com/user-attachments/assets/047e8b96-898b-4e49-a54a-0f440ad97c28" />
 
 > 被指出错误之后作者沮丧的左右脑
 
@@ -207,7 +207,7 @@
 
 吃小数点这块，但是这点已经被很多人说了所以我就不继续了
 
-<img width="827" height="826" alt="e22e7bcb3ebaf289b3d22c4f28484c7c" src="https://github.com/user-attachments/assets/047e8b96-898b-4e49-a54a-0f440ad97c28" />
+<img width="1024" height="1010" alt="73d59bc5282d5d122d722c51884a6aa3" src="https://github.com/user-attachments/assets/f145ebae-0ba2-445b-8b26-081535661376" />
 
 > 你小学数学老师有这样的学生要是被人知道也是仇人看到都释怀了
 
@@ -256,7 +256,7 @@
 
 > `C:\Users\nanaeo\AppData\Roaming\QQ\packages` → `<QQ数据目录>\packages`
 
-`nanaeo` 是上游 [NapCat](https://github.com/NapNeko/NapCatQQ) 作者的 Windows 用户名。对的是上游。同一仓库的 [`docs-open/dev/ARCHITECTURE-AUDIT.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/ARCHITECTURE-AUDIT.md) 里作者自己机器的运行链原样保留了。
+`nanaeo` 是上游 [NapCat](https://github.com/NapNeko/NapCatQQ) 作者的 Windows 用户名。对的是上游。同一仓库的 [`docs-open/dev/ARCHITECTURE-AUDIT.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/ARCHITECTURE-AUDIT.md) 里作者自己机器的运行链原样保留了，多年以后幡然醒悟的作者看到这一段比吃了[烧心盒饭](https://baike.baidu.com/item/%E7%83%A7%E5%BF%83%E7%9B%92%E9%A5%AD?fromModule=lemma_search-box)还难受。
 
 > schtasks \Tongling-Autostartpowershell C:\dsh\start-tongling.ps1"D:\NapCat.Shell.Windows.OneKey\NapCat.44498.Shell\QQ.exe"C:\dsh\.tmp\napcat-shell\NapCatWinBootHook.dllNapCatWinBootMain.exe (PID 5068)
 
@@ -264,7 +264,7 @@
 
 ## 你违反了规则
 
-### 其实我也不知道为什么你这仓库会有禁词表这种筹集吧象的玩意
+### 其实我也不知道为什么你这仓库会有**禁词表**这种筹集吧象的玩意
 
 注意到仓库里有一份 [`docs-open/dev/AI-COLLAB-WRITING-CONSTRAINTS.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/AI-COLLAB-WRITING-CONSTRAINTS.md)，标题是《AI 协作写作的工程约束》，据我推断此文档可能是[作者](https://github.com/DandanLLab)专门为了回答 [issue #16](https://github.com/DandanLLab/SnowCatQQ/issues/16) 写的。
 

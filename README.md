@@ -34,7 +34,7 @@
 
 > 事实上我也完全支持 [linus](https://baike.baidu.com/item/%E6%9E%97%E7%BA%B3%E6%96%AF%C2%B7%E6%9C%AC%E7%BA%B3%E7%AC%AC%E5%85%8B%E7%89%B9%C2%B7%E6%89%98%E7%93%A6%E5%85%B9?fromtitle=linus&fromid=400810&fromModule=lemma_search-box) 的意见
 
-我不知道这玩意是怎么让他有信心讲自己是“墨家开山授徒，将守城之法、造械之术倾囊相授”的，可能是这神秘开发者给dsh的prompt里面叫agent称呼自己为“师傅”而ai本身又只能遵从用户的命令所以只好捏着鼻子陪ta玩这种小孩子都觉得中二病的[RP](https://baike.baidu.com/item/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/68462)；总而言之给我的第一印象又是那种觉得“所有人都不会用ai只有我会”的[vibe coding](https://baike.baidu.com/item/%E6%B0%9B%E5%9B%B4%E7%BC%96%E7%A8%8B?fromModule=lemma_search-box)cosplay程序员的爱好者
+我不知道这玩意是怎么让[作者](https://github.com/DandanLLab)有信心讲自己是“墨家开山授徒，将守城之法、造械之术倾囊相授”的，可能是这神秘开发者给dsh的prompt里面叫agent称呼自己为“师傅”而ai本身又只能遵从用户的命令所以只好捏着鼻子陪ta玩这种小孩子都觉得中二病的[RP](https://baike.baidu.com/item/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/68462)；总而言之给我的第一印象又是那种觉得“所有人都不会用ai只有我会”的[vibe coding](https://baike.baidu.com/item/%E6%B0%9B%E5%9B%B4%E7%BC%96%E7%A8%8B?fromModule=lemma_search-box)cosplay程序员的爱好者
 
 为什么我要专门说一点关于人工测试的问题呢，因为根据社区反馈[雪猫](https://github.com/DandanLLab/SnowCatQQ)这个协议端根本就没有可用性，登上QQ之后十分钟内必触发你腾讯叔叔的风控导致bot账号被踹下线or直接喜提 30DAY 大礼包
 
@@ -118,6 +118,10 @@
 此外，这个项目没有 GitHub Organization。仓库挂在个人账号 DandanLLab 下。*“开发组”三个字在代码托管平台上找不到任何对应物，唯一看起来像团队成员的是一个 localhost 邮箱*
 > 不过这就解释得通了因为前文说过作者左右脑尚未达成世纪大和解，姑且将作者视为两个人，也即一个开发组
 
+<img width="468" height="294" alt="ec2b263ce8ee358a5ae685a2d72d26f2" src="https://github.com/user-attachments/assets/e5892a05-1629-497f-a529-b12a9b4e5bbc" />
+
+> 不排除是[作者](https://github.com/DandanLLab)为了让自己显得名门正派非要夸大，但是大家其实只关心你的项目质量
+
 ## 授权
 
 仓库根目录的 [LICENSE](https://github.com/DandanLLab/SnowCatQQ/blob/main/LICENSE) 原文如下：
@@ -187,7 +191,11 @@
 
 我勒个终审失误，你[这项目一共就俩人](#)，一个是左脑一个是右脑，感情俩人审了三天都认为 MIT 是对的
 
-*然后改完之后我发现 v6.0.0 那个 release 依然是空的*
+<img width="1024" height="1010" alt="73d59bc5282d5d122d722c51884a6aa3" src="https://github.com/user-attachments/assets/f145ebae-0ba2-445b-8b26-081535661376" />
+
+> 被指出错误之后作者沮丧的左右脑
+
+*然后改完之后我发现 v6.0.0 那个 release 依然是空的*。
 
 ## 哥们你小学数学老师真的有资格叫你出门在外不要说ta是你的老师
 

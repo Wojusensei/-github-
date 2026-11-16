@@ -190,6 +190,10 @@
 
 吃小数点这块，但是这点已经被很多人说了所以我就不继续了
 
+<img width="827" height="826" alt="e22e7bcb3ebaf289b3d22c4f28484c7c" src="https://github.com/user-attachments/assets/047e8b96-898b-4e49-a54a-0f440ad97c28" />
+
+> 你小学数学老师有这样的学生要是被人知道也是仇人看到都释怀了
+
 ## 世界上最会编写 git ignore 之人
 
 ### 唉其实这种情况在 vibe 仓库真的是一件很不稀罕的事情

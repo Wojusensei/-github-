@@ -288,7 +288,7 @@
 
 ---
 
-## 治理：八次 CI 全红，全部直推 main
+## 什么叫八次全红的 CI 全部直推到 main 了
 
 [`CHARTER.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/CHARTER.md) 写：
 

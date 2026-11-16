@@ -1,11 +1,11 @@
 # github笑传之会员制餐厅
 
+> 分析对象：DandanLLab/SnowCatQQ　·　数据抓取：2026 年 11 月 16 日　·　材料范围：公开仓库、公开主页、公开评论区
+
 <img width="1280" height="720" alt="28c7963ea4aa7684eb94021ed3cee2f7_720" src="https://github.com/user-attachments/assets/531ebbcd-1451-442d-b770-aae730efc81c" />
 
 > 因为使用到了 [Snowcat](https://github.com/DandanLLab/SnowCatQQ) 成为 [食雪汉](https://baike.baidu.com/item/%E6%88%91%E4%BF%AE%E9%99%A2?fromtitle=%E9%A3%9F%E9%9B%AA%E6%B1%89&fromid=65211459&fromModule=lemma_search-box)而面露难色的两位 QQbot 用户
 
-
-> 分析对象：DandanLLab/SnowCatQQ　·　数据抓取：2026 年 11 月 16 日　·　材料范围：公开仓库、公开主页、公开评论区
 
 ---
 

@@ -1,53 +1,55 @@
-# 一个通信工件的四天
+# github笑传之会员制餐厅
 
 > 分析对象：DandanLLab/SnowCatQQ　·　数据抓取：2026 年 11 月 16 日　·　材料范围：公开仓库、公开主页、公开评论区
 
 ---
 
-## 一、为啥会有这事
+## 为啥会有这事
 
-2026 年 11 月 10 日，随着南山必胜客的两纸律师函，NapCat 项目发布最后一次提交，标题为ending，正式跑路了，同日SnowLuma 仓库也从 GitHub 消失，返回 404，空悲切。24 小时后，一个名为 SnowCatQQ （下简称雪猫，https://github.com/DandanLLab/SnowCatQQ）的仓库出现在 GitHub 上。其对外宣称把 NapCat 与 SnowLuma 两套代码融合且全功能适配 QQ 9.9.37，拥有所谓的56 项独门动作，MCP 接入，全线开源，持续维护
+2026 年 11 月 10 日，随着[南山必胜客](https://baike.baidu.com/item/%E5%8D%97%E5%B1%B1%E5%BF%85%E8%83%9C%E5%AE%A2?fromModule=lemma_search-box)的两纸律师函，[NapCat](https://github.com/NapNeko/NapCatQQ)项目发布最后一次提交，标题为ending，正式跑路了，同日SnowLuma仓库也从 GitHub 消失，返回 404，空悲切。24 小时后，一个名为 [SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) （下简称[雪猫](https://github.com/DandanLLab/SnowCatQQ)）的仓库出现在 GitHub 上。其对外宣称把 [NapCat](https://github.com/NapNeko/NapCatQQ) 与 SnowLuma 两套代码融合且全功能适配 QQ 9.9.37，拥有所谓的56 项独门动作，MCP 接入，全线开源，持续维护
 
-光看名字就知道是要吃nc和sl人血馒头的，打算趁着两个协议端跑路包圆这一块的热度，事实上其开发者称自己的行为为“接续先行者铺下的路”；那么这个仓库在开源社区里究竟是一个什么东西呢？
+<img width="1844" height="1336" alt="image" src="https://github.com/user-attachments/assets/63bc28d5-c808-4f1d-b741-d4099841b9a8" />
 
-史家据史直书，一字不改！😡 且不说现在还活着的诸如拉格兰等等或许还更加强大只是社区小而不被发现的实际上相当成熟的小众协议端；事实上倘若雪猫是个好协议端，在开源社区继续维护已经归档的仓库此类行为本身也是个好事——但是这个仓库实在是极为抽象以至于我在多个技术交流为主的QQ群都看到有群u对此事件发表锐评了，本着实事求是的想法，我想我也必须得对此仓库进行轰轰烈烈的真理大讨论了
+> `有制作这么精良的logo，这种协议端你什么时候用`
 
-全文除了玩梗不掺杂纯粹人身攻击，要说不带感情来评价这坨矿石巨奋是不可能的了，我不相信有人看完这个仓库底下的一些issue能忍住不笑出来以至于不产生“这波贪了应该再等几个月留着春晚看的”的想法——故请读者读完自行得出自己的结论，不要跟着我起哄，一人做事一人担😡
 
-### 1.1 三组核心对照
+光看名字就知道是要吃[nc](https://github.com/NapNeko/NapCatQQ)和sl[人血馒头](https://baike.baidu.com/item/%E4%BA%BA%E8%A1%80%E9%A6%92%E5%A4%B4?fromModule=lemma_search-box)，打算趁着两个协议端跑路包圆这一块的热度，事实上其开发者称自己的行为为“接续先行者铺下的路”；那么这个仓库在开源社区里究竟是一个什么东西呢？
 
-| 项目自己的表述 | 可查证的事实 |
+史家据史直书，一字不改！😡 且不说 [拉格兰](https://github.com/LagrangeDev/Lagrange.Core) 这种还在更新的协议库（它甚至已经把自己的 OneBot 端换成 Milky 了而与此同时 [SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) 还在 [读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里把 Milky 当成自己的兼容层卖点）；事实上倘若[雪猫](https://github.com/DandanLLab/SnowCatQQ)是个好协议端，在开源社区继续维护已经归档的仓库此类行为本身也是个好事——但是这个仓库实在是极为抽象以至于我在多个技术交流为主的QQ群都看到有群u对此事件发表锐评了，本着实事求是的想法，我想我也必须得对此仓库进行轰轰烈烈的真理大讨论了
+
+全文除了玩梗不掺杂纯粹人身攻击，要说不带感情来评价这坨[旷世巨奋](https://github.com/DandanLLab/SnowCatQQ)是不可能的了因为我不相信有人看完这个仓库底下的一些 [issue](https://github.com/DandanLLab/SnowCatQQ/issues/13) 能忍住不笑出来以至于不产生“这波贪了应该再等几个月留着春晚看的”的想法——故请读者读完**自行得出自己的结论，不要跟着我起哄**，一人做事一人担
+
+<img width="1080" height="1480" alt="image" src="https://github.com/user-attachments/assets/eee93628-4ba1-4377-af7d-99924cf52979" />
+
+
+### 时至今日，作者的左右脑还未和解，愿世界和平
+
+| 项目表述 | 项目状态 |
 |---|---|
-| “QQ 本体一字节未动”“核心文件无一处魔改” | 同仓库 ARCHITECTURE-AUDIT.md 标题为“融合魔改 QQ 客户端”，硬改清单第 5 条标注“实锤，系统级硬改” |
-| “感谢 NapCat（126,400+ ⭐）” | NapCat 实际 12,860 星，相差 9.83 倍 |
-| “每一项能力，都经在役验收，全绿方才发版” | 唯一的 Release v6.0.0 附件列表为空，tag 落后 main 13 个提交，全仓 26 个包 25 个版本号为 0.0.1 |
+| “QQ 本体一字节未动”“核心文件无一处魔改” | 仓库 [ARCHITECTURE-AUDIT.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/ARCHITECTURE-AUDIT.md) 标题就是“融合魔改 QQ 客户端”，硬改清单第 5 条标注“实锤，系统级硬改” |
+| “感谢 [NapCat](https://github.com/NapNeko/NapCatQQ)（126,400+ ⭐）” | 作者但凡自己看看[NapCat](https://github.com/NapNeko/NapCatQQ)仓库就不会连star数都写错 |
+| “每一项能力，都经在役验收，全绿方才发版” | 注意到本仓库唯一的 [release](https://github.com/DandanLLab/SnowCatQQ/releases) 附件列表为棍母且 tag 落后 main 13 个提交，全仓就 26 个包且 25 个版本号还是 0.0.1 |
 
-## 二、背景：上游熄灯
+## [南山必胜客](https://baike.baidu.com/item/%E5%8D%97%E5%B1%B1%E5%BF%85%E8%83%9C%E5%AE%A2?fromModule=lemma_search-box)这么这么坏啊😭
 
-理解这件事，需要先理解它落脚的那块地。
+[雪猫](https://github.com/DandanLLab/SnowCatQQ)项目自己的公告里记录了[nc](https://github.com/NapNeko/NapCatQQ)和sl被杀的事情，此处不述。那此时，我们嗅觉灵敏思维敏捷反应迅速的[雪猫](https://github.com/DandanLLab/SnowCatQQ)开发者[蛋蛋呀](https://github.com/DandanLLab)大人当时在干什么开天辟地的大事呢？答案是：
 
-NapCat 是社区里维护时间最长、用户量最大的 QQ 协议端之一。2026 年 11 月 10 日，它的作者在仓库里留下最后一次提交，README 改成了：
 
-> 到这里告一段落。
+## 嘿DSH，我要开始 wish coding 了
 
-同年 11 月，SnowLuma 仓库从网络消失。项目自己的公告里记录了这件事：
+<img width="570" height="658" alt="3fe996f8b1dc32767662a022f1327de3" src="https://github.com/user-attachments/assets/7afd4454-d589-43d1-8bf7-dab2ad7d6d2c" />
 
-> 同一日，SnowLuma 原仓库自网络消失，返回 404，未留片语。一个宣布倒计时，一个直接退场。
+> 此时的作者：
 
-笔者核查了当前状态：NapCat 仓库已经被清空，只剩两个提交，内容分别是“Keep README only”和“docs: ending”。SnowLuma 原地址仍返回 404。
 
-这就是 SnowCat 出场的背景。一个空出来的生态位，一个真实存在的需求。
+### 兄弟逗我呢 git 是这样 commit 的吗
 
-## 三、五十一分钟
-
-### 3.1 时间线
-
-以下时间精确到秒，全部来自 git 提交记录。
+注意到 [雪猫](https://github.com/DandanLLab/SnowCatQQ) 的 git 提交记录：
 
 | 时间（UTC） | 事件 |
 |---|---|
 | 11-11 22:23:10 | 仓库创建 |
-| 11-12 06:27:36 | 首次提交：1048 个文件，130,851 行 |
+| 11-12 06:27:36 | 首次也是单次提交了 1048 个文件，统计共 130,851 行 |
 | 11-12 06:29:38 | 文档归位 |
 | 11-12 06:30:32 | chore: 删掉一个空的 upstream readme |
 | 11-12 06:38:59 | docs: README 全新排版（徽章矩阵/特性表/运行时栈图/居中致谢） |
@@ -59,51 +61,32 @@ NapCat 是社区里维护时间最长、用户量最大的 QQ 协议端之一。
 | 11-12 07:16:38 | docs: 写“我们的信条” |
 | 11-12 07:18:15 | docs: 移除三项插件（师父令） |
 
-从第一次提交到最后一次，51 分钟。
+从[首次提交](https://github.com/DandanLLab/SnowCatQQ/commit/b9655a5ab19954f0396542f1c48f54dc59c44379)到[宣称能用的最后一次提交](https://github.com/DandanLLab/SnowCatQQ/commit/4bd67e3c9b54df5baa12dacd5f49850bf70157fb) 居然总共只花了 51 分钟，而且最后几次提交还几乎全都是文档变更，我们速度飞快效率极高生产力爆炸的[雪猫](https://github.com/DandanLLab/SnowCatQQ)开发者[蛋蛋呀](https://github.com/DandanLLab)大人的 Vibe Coding 技术可谓是炉火纯青，其 review 代码的速度已经超越了全体人类了，开源社区诞生一名宗门圣女[Jumping02](https://baike.baidu.com/item/%E5%A7%9C%E8%90%8D/68637978?fromModule=disambiguation)
 
-这 51 分钟里，十次提交的构成是：八条 docs，一条 chore，一条“文档归位”。
+## “我们”？
 
-那 130,851 行代码，是 06:27:36 那一次提交一次性倒进去的。这个仓库在本机存在了多久、那些代码是怎么来的，git 里没有记录。
+该仓库[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md)全文，“我们”这个词出现了 93 次( 统计数据来源于免费模型 inkling-2 )
 
-*“51 分钟建成”这个说法是真的，精确到秒，可以自己复算。它说明的是写文档用了 51 分钟。*
+与之配套的自称包括[Snowcat开发组](https://github.com/DandanLLab/SnowCatQQ)等等
 
-### 3.2 那两次“给自己排版”的提交
+以下是 GitHub 上的 [contributors](https://github.com/DandanLLab/SnowCatQQ/graphs/contributors?from=2026%2F8%2F15) 实际构成。
 
-十次提交里，有两次是同一件事：给自己排版。
-
-> docs: README 全新排版（徽章矩阵/特性表/运行时栈图/居中致谢）docs: 双对比表（客户端/机器人四象限）+ B站素材视频卡片嵌入，全文重排版
-
-一个刚创建一分钟的仓库，前十分之一的时间花在调整 README 的外观上。
-
-## 四、“我们”
-
-README 全文，“我们”这个词出现了 93 次。
-
-与之配套的自称包括：SnowCat 开发组、社区开发者维护、后来者接续。
-
-以下是 GitHub 上的实际构成。
-
-| 署名 | 提交数 | 说明 |
+| 署名 | 提交 | 情况 |
 |---|---|---|
 | 蛋蛋呀~ | 25 | 账号 UID 100036451 |
-| 天天的鸟蛋蛋 | 11 | 同一账号的另一个显示名，同一串邮箱 |
+| 天天的鸟蛋蛋 | 11 | 根据本人检查为同一账号的另一个显示名，根据是这俩玩意邮箱居然是同一串 |
 | SnowCat Security Bot | 9 | 邮箱为 security@localhost，非注册账号 |
-| dependabot[bot] | 4 | 依赖升级机器人 |
-| 晚晴 | 2 | 外部贡献 |
-| Amria | 1 | 外部贡献，OneBot 12 兼容层 |
+| dependabot[bot] | 4 | gh的傻软depbot |
+| 晚晴 | 2 | 短期外部贡献 |
+| Amria | 1 | 短期外部贡献，甚至是 OneBot 12 兼容层这种核心 |
 | Na2Cr2O7 | 1 | 外部贡献，Star History 图表 |
 
-53 条提交里，36 条来自同一个人。
+此外，这个项目没有 GitHub Organization。仓库挂在个人账号 DandanLLab 下。*“开发组”三个字在代码托管平台上找不到任何对应物，唯一看起来像团队成员的是一个 localhost 邮箱*
+> 不过这就解释得通了因为前文说过作者左右脑尚未达成世纪大和解，姑且将作者视为两个人，也即一个开发组
 
-这里需要单独说明“SnowCat Security Bot”：它的邮箱是 security@localhost，不是一个存在的 GitHub 账号，而是一个本地地址写成的署名。它提交的 9 条内容，全部是 fix(security) 开头的安全修复。
+## 授权
 
-此外，这个项目没有 GitHub Organization。仓库挂在个人账号 DandanLLab 下。
-
-*“开发组”三个字，在代码托管平台上找不到任何对应物。唯一看起来像团队成员的，是一个 localhost 邮箱。*
-
-## 五、授权：三份文件，三个说法
-
-仓库根目录的 LICENSE，原文如下：
+仓库根目录的 [LICENSE](https://github.com/DandanLLab/SnowCatQQ/blob/main/LICENSE) 原文如下：
 
 > 1. Usage and Reproduction:   Unauthorized use, reproduction, modification, or distribution of this code is prohibited without explicit permission from the main author of the NapCat repository.2. Redistribution:   Minor modifications and extensions are allowed for redistribution purposes, but the modified code must not be publicly released.3. Non-Commercial Use:   This code is not to be used for any commercial purposes.
 
@@ -127,7 +110,7 @@ README 全文，“我们”这个词出现了 93 次。
 
 > 徽章是错的，LICENSE 是真的。badge 沿用模板时没核对实际授权文本，这是终审失误。
 
-*这不是法律判断。这是一个打开 LICENSE 读三行就会发现的问题。它连续四天没有被发现，直到有人在 issue 里贴出原文。*
+*但是啊[作者](https://github.com/DandanLLab)大人这是一个打开 LICENSE 读三行就会发现的问题，可悲的是它连续四天没有被发现，您的左脑没有看到这一点，右脑也没有，他们似乎忙着窝里横了，直到有人在 issue 里贴出原文*
 
 ## 六、数字
 

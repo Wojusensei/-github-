@@ -10,7 +10,7 @@
 
 ## 为啥会有这事
 
-2026 年 11 月 10 日，随着[南山必胜客](https://baike.baidu.com/item/%E5%8D%97%E5%B1%B1%E5%BF%85%E8%83%9C%E5%AE%A2?fromModule=lemma_search-box)的两纸律师函，[NapCat](https://github.com/NapNeko/NapCatQQ)项目发布最后一次提交，标题为ending，正式跑路了，同日SnowLuma仓库也从 GitHub 消失，返回 404，空悲切。不过人们发现在 24 小时后，一个名为[SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)（下简称[雪猫](https://github.com/DandanLLab/SnowCatQQ)）的仓库出现在 GitHub 上。其对外宣称把 [NapCat](https://github.com/NapNeko/NapCatQQ) 与 SnowLuma 两套代码融合且全功能适配 QQ 9.9.37，拥有所谓的56 项独门动作，MCP 接入，全线开源，持续维护
+2026 年 11 月 10 日，随着[南山必胜客](https://baike.baidu.com/item/%E5%8D%97%E5%B1%B1%E5%BF%85%E8%83%9C%E5%AE%A2?fromModule=lemma_search-box)的两纸律师函被祭出，[NapCat](https://github.com/NapNeko/NapCatQQ)项目发布最后一次提交，标题为ending，正式跑路了，同日SnowLuma仓库也从 GitHub 消失，返回 404，空悲切。不过人们发现在 24 小时后，一个名为[SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)（下简称[雪猫](https://github.com/DandanLLab/SnowCatQQ)）的仓库出现在 GitHub 上。其对外宣称把 [NapCat](https://github.com/NapNeko/NapCatQQ) 与 SnowLuma 两套代码融合且全功能适配 QQ 9.9.37，拥有所谓的56 项独门动作，MCP 接入，全线开源，持续维护
 
 <img width="1844" height="1336" alt="image" src="https://github.com/user-attachments/assets/63bc28d5-c808-4f1d-b741-d4099841b9a8" />
 

@@ -18,6 +18,7 @@
 
 光看名字就知道是要吃[nc](https://github.com/NapNeko/NapCatQQ)和sl的[人血馒头](https://baike.baidu.com/item/%E4%BA%BA%E8%A1%80%E9%A6%92%E5%A4%B4?fromModule=lemma_search-box)，打算趁着两个协议端跑路包圆这一块的热度，事实上其开发者称自己的行为为“接续先行者铺下的路”；那么这个仓库在开源社区里究竟是一个什么东西呢？
 
+
 史家据史直书，一字不改！
 
 且不说[拉格兰](https://github.com/LagrangeDev/Lagrange.Core)这种还在更新的协议库（它甚至已经把自己的 OneBot 端换成 Milky 了而与此同时[SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)还在 [读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里把 Milky 当成自己的兼容层卖点）；事实上倘若[雪猫](https://github.com/DandanLLab/SnowCatQQ)是个好协议端，在开源社区继续维护已经归档的仓库此类行为本身也是个好事——但是这个仓库实在是极为抽象以至于我在多个技术交流为主的QQ群都看到有群u对此事件发表锐评了，本着实事求是的想法，我想我也必须得对此仓库进行轰轰烈烈的真理大讨论
@@ -25,6 +26,21 @@
 全文除了玩梗不掺杂纯粹人身攻击，要说不带感情来评价这坨[旷世巨奋](https://github.com/DandanLLab/SnowCatQQ)是不可能的了因为我不相信有人看完这个仓库底下的一些 [issue](https://github.com/DandanLLab/SnowCatQQ/issues/13) 能忍住不笑出来以至于不产生“这波贪了应该再等几个月留着春晚看的”的想法——故请读者读完**自行得出自己的结论，不要跟着我起哄**，一人做事一人担
 
 <img width="1080" height="1480" alt="image" src="https://github.com/user-attachments/assets/eee93628-4ba1-4377-af7d-99924cf52979" />
+
+### 定论：彻彻底底的 AI SLOP
+我不知道这玩意是怎么让他有信心讲自己是“墨家开山授徒，将守城之法、造械之术倾囊相授”的，总而言之给我的第一印象又是那种觉得“所有人都不会用ai只有我会”的[vibe coding](https://baike.baidu.com/item/%E6%B0%9B%E5%9B%B4%E7%BC%96%E7%A8%8B?fromModule=lemma_search-box)cosplay程序员的爱好者
+
+<img width="972" height="972" alt="5465ad966105cda549586050b160d04f" src="https://github.com/user-attachments/assets/de845ad8-5d41-42b8-b378-4123672ce515" />
+
+> 作者眼里的所有人
+
+
+当我看到那个[SVG](https://baike.baidu.com/item/%E5%8F%AF%E7%BC%A9%E6%94%BE%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2/22819739?fromtitle=SVG&fromid=63178)logo的时候我就知道开源社区又迎来了一坨属于它的大分，精美程度和[豆包](https://baike.baidu.com/item/%E8%B1%86%E5%8C%85%E5%B7%A5%E4%BD%9C?fromModule=lemma_search-box)画的[鹈鹕自行车](https://baike.baidu.com/item/%E9%B9%88%E9%B9%95%E8%B8%A9%E5%8D%95%E8%BD%A6/69165703?fromModule=search-result_lemma)一桌，可谓是低山臭水遇至阴穷凶极恶双子星———很显然可以从文档语气等地方看出作者本人对此项目还算是骄傲的，而这样一个让其本人骄傲的项目居然有一个这么应付的招牌logo
+
+<img width="972" height="972" alt="5465ad966105cda549586050b160d04f" src="https://github.com/user-attachments/assets/6cfc0b4a-90db-49c8-ab96-a7821587e2bf" />
+
+> 作者的审美堪比两斤牛肉
+
 
 ### 时至今日，作者的左右脑还未和解，愿世界和平
 

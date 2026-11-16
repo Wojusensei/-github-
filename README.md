@@ -28,6 +28,12 @@
 <img width="1080" height="1480" alt="image" src="https://github.com/user-attachments/assets/eee93628-4ba1-4377-af7d-99924cf52979" />
 
 ### 定论：彻彻底底的 AI SLOP
+事先叠甲：[本人](https://github.com/Wojusensei)绝对尊重开源精神，支持使用 ai agent 进行辅助开发甚至于是承担 99% 的代码工作，只要是认真写好任务规划做好人工测试和 review 过核心模块的项目，使用ai并不会降低其含金量（提高生产力的事情为什么不做）。本人只反对一味鼓吹 ai 可以完全替代程序员、幻想利用ai可以不用学习任何东西就驾驭软件开发的傻逼而已（至少我认为这句话在2027年之前都是生效的）
+
+<img width="1080" height="869" alt="a5bf9db307c7dc40eae26478f531c48b_720" src="https://github.com/user-attachments/assets/8a7d2189-3afe-469a-9afd-61acfca2b29d" />
+
+> 事实上我也完全支持 [linus](https://baike.baidu.com/item/%E6%9E%97%E7%BA%B3%E6%96%AF%C2%B7%E6%9C%AC%E7%BA%B3%E7%AC%AC%E5%85%8B%E7%89%B9%C2%B7%E6%89%98%E7%93%A6%E5%85%B9?fromtitle=linus&fromid=400810&fromModule=lemma_search-box) 的意见
+
 我不知道这玩意是怎么让他有信心讲自己是“墨家开山授徒，将守城之法、造械之术倾囊相授”的，可能是这神秘开发者给dsh的prompt里面叫agent称呼自己为“师傅”而ai本身又只能遵从用户的命令所以只好捏着鼻子陪ta玩这种小孩子都觉得中二病的RP；总而言之给我的第一印象又是那种觉得“所有人都不会用ai只有我会”的[vibe coding](https://baike.baidu.com/item/%E6%B0%9B%E5%9B%B4%E7%BC%96%E7%A8%8B?fromModule=lemma_search-box)cosplay程序员的爱好者
 
 <img width="972" height="972" alt="5465ad966105cda549586050b160d04f" src="https://github.com/user-attachments/assets/de845ad8-5d41-42b8-b378-4123672ce515" />

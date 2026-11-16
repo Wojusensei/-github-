@@ -4,23 +4,23 @@
 
 <img width="1280" height="720" alt="28c7963ea4aa7684eb94021ed3cee2f7_720" src="https://github.com/user-attachments/assets/531ebbcd-1451-442d-b770-aae730efc81c" />
 
-> 因为使用到了 [Snowcat](https://github.com/DandanLLab/SnowCatQQ) 成为 [食雪汉](https://baike.baidu.com/item/%E6%88%91%E4%BF%AE%E9%99%A2?fromtitle=%E9%A3%9F%E9%9B%AA%E6%B1%89&fromid=65211459&fromModule=lemma_search-box)而面露难色的两位 QQbot 用户
+> 因为使用到了[Snowcat](https://github.com/DandanLLab/SnowCatQQ)成为[食雪汉](https://baike.baidu.com/item/%E6%88%91%E4%BF%AE%E9%99%A2?fromtitle=%E9%A3%9F%E9%9B%AA%E6%B1%89&fromid=65211459&fromModule=lemma_search-box)而面露难色的两位 QQbot 用户
 
 ---
 
 ## 为啥会有这事
 
-2026 年 11 月 10 日，随着[南山必胜客](https://baike.baidu.com/item/%E5%8D%97%E5%B1%B1%E5%BF%85%E8%83%9C%E5%AE%A2?fromModule=lemma_search-box)的两纸律师函，[NapCat](https://github.com/NapNeko/NapCatQQ)项目发布最后一次提交，标题为ending，正式跑路了，同日SnowLuma仓库也从 GitHub 消失，返回 404，空悲切。24 小时后，一个名为 [SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) （下简称[雪猫](https://github.com/DandanLLab/SnowCatQQ)）的仓库出现在 GitHub 上。其对外宣称把 [NapCat](https://github.com/NapNeko/NapCatQQ) 与 SnowLuma 两套代码融合且全功能适配 QQ 9.9.37，拥有所谓的56 项独门动作，MCP 接入，全线开源，持续维护
+2026 年 11 月 10 日，随着[南山必胜客](https://baike.baidu.com/item/%E5%8D%97%E5%B1%B1%E5%BF%85%E8%83%9C%E5%AE%A2?fromModule=lemma_search-box)的两纸律师函，[NapCat](https://github.com/NapNeko/NapCatQQ)项目发布最后一次提交，标题为ending，正式跑路了，同日SnowLuma仓库也从 GitHub 消失，返回 404，空悲切。24 小时后，一个名为[SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)（下简称[雪猫](https://github.com/DandanLLab/SnowCatQQ)）的仓库出现在 GitHub 上。其对外宣称把 [NapCat](https://github.com/NapNeko/NapCatQQ) 与 SnowLuma 两套代码融合且全功能适配 QQ 9.9.37，拥有所谓的56 项独门动作，MCP 接入，全线开源，持续维护
 
 <img width="1844" height="1336" alt="image" src="https://github.com/user-attachments/assets/63bc28d5-c808-4f1d-b741-d4099841b9a8" />
 
 > 哇啊啊有制作这么精良的logo，这种协议端你什么时候用
 
-光看名字就知道是要吃[nc](https://github.com/NapNeko/NapCatQQ)和sl[人血馒头](https://baike.baidu.com/item/%E4%BA%BA%E8%A1%80%E9%A6%92%E5%A4%B4?fromModule=lemma_search-box)，打算趁着两个协议端跑路包圆这一块的热度，事实上其开发者称自己的行为为“接续先行者铺下的路”；那么这个仓库在开源社区里究竟是一个什么东西呢？
+光看名字就知道是要吃[nc](https://github.com/NapNeko/NapCatQQ)和sl的[人血馒头](https://baike.baidu.com/item/%E4%BA%BA%E8%A1%80%E9%A6%92%E5%A4%B4?fromModule=lemma_search-box)，打算趁着两个协议端跑路包圆这一块的热度，事实上其开发者称自己的行为为“接续先行者铺下的路”；那么这个仓库在开源社区里究竟是一个什么东西呢？
 
 史家据史直书，一字不改！
 
-且不说 [拉格兰](https://github.com/LagrangeDev/Lagrange.Core) 这种还在更新的协议库（它甚至已经把自己的 OneBot 端换成 Milky 了而与此同时 [SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ) 还在 [读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里把 Milky 当成自己的兼容层卖点）；事实上倘若[雪猫](https://github.com/DandanLLab/SnowCatQQ)是个好协议端，在开源社区继续维护已经归档的仓库此类行为本身也是个好事——但是这个仓库实在是极为抽象以至于我在多个技术交流为主的QQ群都看到有群u对此事件发表锐评了，本着实事求是的想法，我想我也必须得对此仓库进行轰轰烈烈的真理大讨论了
+且不说[拉格兰](https://github.com/LagrangeDev/Lagrange.Core)这种还在更新的协议库（它甚至已经把自己的 OneBot 端换成 Milky 了而与此同时[SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)还在 [读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里把 Milky 当成自己的兼容层卖点）；事实上倘若[雪猫](https://github.com/DandanLLab/SnowCatQQ)是个好协议端，在开源社区继续维护已经归档的仓库此类行为本身也是个好事——但是这个仓库实在是极为抽象以至于我在多个技术交流为主的QQ群都看到有群u对此事件发表锐评了，本着实事求是的想法，我想我也必须得对此仓库进行轰轰烈烈的真理大讨论
 
 全文除了玩梗不掺杂纯粹人身攻击，要说不带感情来评价这坨[旷世巨奋](https://github.com/DandanLLab/SnowCatQQ)是不可能的了因为我不相信有人看完这个仓库底下的一些 [issue](https://github.com/DandanLLab/SnowCatQQ/issues/13) 能忍住不笑出来以至于不产生“这波贪了应该再等几个月留着春晚看的”的想法——故请读者读完**自行得出自己的结论，不要跟着我起哄**，一人做事一人担
 
@@ -67,11 +67,9 @@
 
 ## “我们”？
 
-该仓库[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md)全文，“我们”这个词出现了 93 次( 统计数据来源于免费模型 inkling-2 )
+该仓库[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md)全文，“我们”这个词出现了 93 次( 统计数据来源于免费模型 inkling-2 )，与之配套的自称包括[Snowcat开发组](https://github.com/DandanLLab/SnowCatQQ)等等
 
-与之配套的自称包括[Snowcat开发组](https://github.com/DandanLLab/SnowCatQQ)等等
-
-以下是 GitHub 上的 [contributors](https://github.com/DandanLLab/SnowCatQQ/graphs/contributors?from=2026%2F8%2F15) 实际构成。
+以下是 GitHub 上的 [contributors](https://github.com/DandanLLab/SnowCatQQ/graphs/contributors?from=2026%2F8%2F15) 实际构成：
 
 | 署名 | 提交 | 情况 |
 |---|---|---|
@@ -94,13 +92,11 @@
 
 版权行写作：Copyright © 2024 Mlikiowa。
 
-这三段的含义是：修改后的代码不得公开分发。而这个仓库做的全部事情，就是修改这份代码并公开发布。
-
-> 哇啊啊有法律这么严谨啊，这种授权你什么时候见过它生效
+即修改后的代码不得公开分发。而这个仓库做的全部事情就是修改这份代码并公开发布。
 
 ### 哎我去怎么还有两份别人的 MIT
 
-不是一份，是**三份 LICENSE 文件**躺在同一个仓库里：
+对的你没看错我没看错**三份 LICENSE 文件**在同一个仓库里
 
 | 文件 | 内容 | 版权人 |
 |---|---|---|
@@ -110,113 +106,70 @@
 
 按 [雪猫](https://github.com/DandanLLab/SnowCatQQ) 自己的话说法，[`packages/` 是"底座移植"，`snowcat-webui-*` 是"自研"](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md)。
 
-那我们来查查这个"自研"到底是谁研的。
+这时候就有小伙伴要问了，“诶诶诶这个自研到底是谁研的呢？~~总不能是自己研磨吧~~”
 
-[bietiaop](https://github.com/bietiaop) 名下有个仓库叫 [NextNapCatWebUI](https://github.com/bietiaop/NextNapCatWebUI)，MIT 许可，65 颗星，2024 年 11 月 28 日建的，描述是"适用于 NapCat 的 WebUI"。而 [雪猫](https://github.com/DandanLLab/SnowCatQQ) 的 `packages/snowcat-webui-frontend/LICENSE` 第 3 行写着：
+[bietiaop](https://github.com/bietiaop) 名下有个仓库叫 [NextNapCatWebUI](https://github.com/bietiaop/NextNapCatWebUI)，开源协议为 MIT ，65 stars，2024 年 11 月 28 日建的，描述是"适用于 NapCat 的 WebUI"。而 [雪猫](https://github.com/DandanLLab/SnowCatQQ) 的 `packages/snowcat-webui-frontend/LICENSE` 第 3 行写着：
 
 > Copyright (c) 2024 bietiaop
 
-这份文件连改都没有改过，一个字都不差。于是[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里那句"雪猫控制台（React + Tailwind + HeroUI 全面重制）"里的"重制"二字就非常有灵性了——~~重制之后连人家的名字都留着，这叫尊重原作者，建议全体开源爱好者学习~~
+这份文件甚至连改都没有改过，一个字节都不带差的，于是[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里那句"雪猫控制台（React + Tailwind + HeroUI 全面重制）"里的"重制"二字就非常有灵性了——~~重制之后连人家的名字都留着，只能说尊重原作者这块，建议全体开源爱好者学习伟大的致敬精神~~
 
-至于 `snowcat-dpapi` 那份 MIT，是 [@primno/dpapi](https://www.npmjs.com/package/@primno/dpapi) 的，Xavier Monin 的。这个倒是正常的第三方依赖声明，问题在于**为什么一个 npm 依赖的 LICENSE 会被复制进仓库根目录的 packages 里**——大概是复制粘贴的时候忘了删。
+与此同时，另一边 `snowcat-dpapi` 那份 MIT 是 [@primno/dpapi](https://www.npmjs.com/package/@primno/dpapi) 的，是 Xavier Monin 的，不过这个倒是正常的第三方依赖声明，问题在于**为什么一个 npm 依赖的 LICENSE 会被复制进仓库根目录的 packages 里**呢？
 
-*当然，这不影响什么，只影响"自研"这两个字到底还能用在什么东西上*
 
-### 授权说明这一节，自己抄了自己一巴掌
+### 你是在一个什么精神状态下写的授权说明
 
-[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里有一整节叫"授权说明"，写得那叫一个郑重，还分了两个部分。
+[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里有一整块叫授权说明，让我们来品鉴一下
 
-第一部分是"上游移植部分"，原文：
+注意到"上游移植部分"，原文：
 
 > `packages/` 下的核心代码以 NapCat 4.18.28 底座移植而来，沿用上游的 NapCat Limited Redistribution License 原文，版权归上游作者（Copyright © 2024 Mlikiowa）所有。
 > 该授权允许在保留完整许可文本与出处声明的前提下分发；修改与扩展仅限分发目的，**修改后的代码不得公开发布**；非商业用途。
 
-停一下。它**自己引用了"修改后的代码不得公开发布"这一条**，然后紧接着往下写第二部分：
+注意到它**自己引用了"修改后的代码不得公开发布"这一条**，再看下文：
 
 > 雪猫在底座之上新增的适配层、通道层与工具链（如 `snowcat-onebot` 的 OneBot 适配与 MCP 适配器、**`snowcat-webui-*` 控制台**、`release-tools/` 全部脚本与文档），为 **SnowCat 开发组自研**，供社区学习与使用。
 
-也就是说：上一段刚说完"修改后的代码不得公开"，下一段就说"这些都是我们自研的，欢迎大家来学"。
+啊这个这个是吧，我们这个这个，[遥遥领先](https://baike.baidu.com/item/%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88/63435070)，1kw tokens 以内能做出来的最好的QQ协议端
 
-*这不是不懂法，这是把法条当装饰品挂着，挂完该干嘛干嘛*
+### 可是宝宝你的 26 个 package.json 居然一个 license 字段都没有诶
 
-### 二十五个 package.json，一个 license 字段都没有
+把全仓 26 个 `package.json` 全部打开看了一遍发现**一个都没有 `license` 字段**(powerd by GLM-5.3-flash)
 
-我把全仓 26 个 `package.json` 全部打开看了一遍。
+在 npm 生态里，`package.json` 的 `license` 字段是授权声明的标准位置，然而我们我们聪明绝顶事无巨细的天才[雪猫](https://github.com/DandanLLab/SnowCatQQ)开发者[蛋蛋呀](https://github.com/DandanLLab)选择将这二十五个包全部留空，背后的原因令人暖心
 
-**一个都没有 `license` 字段。**
+*ta花了点时间琢磨把徽章换成橙色的了*
 
-| 检查项 | 结果 |
-|---|---|
-| `package.json` 总数 | 26 |
-| 含 `license` 字段 | 0 |
-| npm 生态标准位置 | `package.json` 的 `license` 键 |
+### 徽章的进化史
 
-在 npm 生态里，`package.json` 的 `license` 字段是授权声明的标准位置。这二十五个包，全部留空。
-
-*连 LICENSE 都没写全，倒是记得把徽章换成好看的橙色*
-
-### 徽章的进化史：从 MIT 到 NapCat 限制许可，用了两天
-
-| 时间 | 徽章写着 | 提交 |
+| 时间 | 徽章 | 提交 |
 |---|---|---|
 | 11-11 22:27（建仓） | `License: MIT` | [b9655a5](https://github.com/DandanLLab/SnowCatQQ/commit/b9655a5ab19954f0396542f1c48f54dc59c44379) |
 | 11-14 09:52 | `License-NapCat_Limited_Redistribution` | [4b647c8](https://github.com/DandanLLab/SnowCatQQ/commit/4b647c8) |
 
-中间隔了三天。[issue #45](https://github.com/DandanLLab/SnowCatQQ/issues/45) 的作者在 11-13 01:19 贴出原文质问，作者在 11-14 00:05 回复：
+[issue #45](https://github.com/DandanLLab/SnowCatQQ/issues/45) 的作者在 11-13 01:19 贴出原文质问，[作者](https://github.com/DandanLLab)在 11-14 00:05 回复：
 
 > 徽章是错的，LICENSE 是真的。badge 沿用模板时没核对实际授权文本，这是终审失误。
 
-这句"终审失误"很妙——因为[这项目一共就俩人](#)，一个是左脑一个是右脑，俩人审了三天，都认为 MIT 是对的。
+我勒个终审失误，你[这项目一共就俩人](#)，一个是左脑一个是右脑，感情俩人审了三天都认为 MIT 是对的
 
-*然后改完之后我发现，v6.0.0 那个 release 依然是空的。改徽章改得挺快，发版发不出来*
+*然后改完之后我发现 v6.0.0 那个 release 依然是空的*
 
-## 兄弟你这数学是跟谁学的
+## 哥们你小学数学老师真的有资格叫你出门在外不要说ta是你的老师
 
-### 一行致谢，两个方向相反的错
+### 自己看看这尼玛啥
 
-[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 和[公告](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/ANNOUNCEMENT.md) 都写着这句话：
+[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 和[公告](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/ANNOUNCEMENT.md) 原文：
 
 > 感谢 [NapCat](https://github.com/NapNeko/NapCatQQ)（126,400+ ⭐）· 感谢 [SnowLuma](https://github.com/SnowLuma/SnowLuma)（283 ⭐）
 
-2026 年 11 月 16 日实测：
+吃小数点这块，但是这点已经被很多人说了所以我就不继续了
 
-| 对象 | 项目写的 | 实际 | 倍率 |
-|---|---|---|---|
-| [NapCat](https://github.com/NapNeko/NapCatQQ) | 126,400+ | 12,860 | 9.83 倍（放大） |
-| SnowLuma 原仓库 | 283 | 已 [404](https://github.com/SnowLuma/SnowLuma)，删库前 3,846 | 13.59 倍（缩小） |
-| [TomyJan/SnowLuma](https://github.com/TomyJan/SnowLuma)（社区镜像） | — | 465 | 283 的实际出处 |
+## 世界上最会编写 git ignore 之人
 
-第一处：126400 ÷ 12860 ≈ 9.83。
+### 唉其实这种情况在 vibe 仓库真的是一件很不稀罕的事情
 
-也就是[作者](https://github.com/DandanLLab)大人把 `12.7k` 念成了 `126.4k`。这不是四舍五入，这是把小数点吃了然后往右多按了一位。您这要是去给[腾讯](https://www.tencent.com/)报财报，投资者得当场精神病发作。
-
-第二处更有意思：283 这个数字，属于社区继任镜像 [TomyJan/SnowLuma](https://github.com/TomyJan/SnowLuma)，不属于正主。而这一点，[雪猫](https://github.com/DandanLLab/SnowCatQQ) 自己的自查文档里写得清清楚楚：
-
-> TomyJan/SnowLuma（社区继任）｜活跃但换主｜最后推送 2026-11-07（v2.4.2），283 stars
-
-这份自查文档就躺在仓库里，文件名 [`announcement-materials.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/announcement-materials.md)。写完它之后，同一个 283 被原封不动抄进了[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 的致谢行。
-
-*自己查出来的正确数据，自己抄错成别人的数据，然后挂在门面上感谢了三天。左脑查的，右脑抄的。*
-
-### 还有五处，凑个整
-
-| 项目写的 | 实际 |
-|---|---|
-| 56 项独门动作 | `action/extends` 目录下动作类 51 个 |
-| [Release v6.0.0](https://github.com/DandanLLab/SnowCatQQ/releases) 正文列七项特性 | 附件列表为 `[]`，无任何可下载文件 |
-| 版本号 v6.0.0 | 全仓 26 个 `package.json`，25 个 `version` 为 `0.0.1` |
-| release 代表当前代码 | tag 指向 [e292824](https://github.com/DandanLLab/SnowCatQQ/commit/e292824)，落后 main 13 个提交 |
-| 手写率 100% | 作者自述"数字不考绩、只留痕"，不可核验 |
-
-*这个项目是踩在两个刚熄灯的项目上立起来的。它对这两具地基的了解程度，是把 12.7k 读成 126.4k。*
-
----
-
-## 凭据？不，这叫遗产
-
-### 一个号码，三处留名
-
-[初始提交 b9655a5](https://github.com/DandanLLab/SnowCatQQ/commit/b9655a5ab19954f0396542f1c48f54dc59c44379) 里，启动脚本 `snowcat-launch.ps1` 第七行：
+注意到[初始提交 b9655a5](https://github.com/DandanLLab/SnowCatQQ/commit/b9655a5ab19954f0396542f1c48f54dc59c44379) 里，启动脚本 `snowcat-launch.ps1` 第七行：
 
 > 用法: .\snowcat-launch.ps1 [-Account 3430961870] [-NapcatDir C:\dsh\.tmp\napcat-shell] [-QQPath 自定义QQ.exe]
 
@@ -224,180 +177,67 @@
 
 > param(  [string]$Account = '3430961870',)
 
-同一次提交里，`snowcat-launch-9937.ps1` 第四十二行：
+同一次提交里的`snowcat-launch-9937.ps1` 第四十二行：
 
 > -q3430961870
 
-用法注释一处，默认值一处，启动参数一处。一个完整的十位号码，三处写死。
-
-而同一仓库 [`release-tools/`](https://github.com/DandanLLab/SnowCatQQ/tree/main/release-tools) 目录下的同名文件，同一个位置写的是：
+而同一仓库 [`release-tools/`](https://github.com/DandanLLab/SnowCatQQ/tree/main/release-tools) 目录下的同名文件的同一个位置写的是：
 
 > [string]$Account = ''
 
 > 我去我去您知道要脱敏啊？？？
 
-*两个目录，两个同名文件，一个已经脱敏，一个没有。这叫灰度脱敏，A/B 测试，一套支持隐私保护，一套还没收到师父令*
+*A/B 测试吗这是，一套支持隐私保护，一套还没收到师父令*，给作者指条能反转风评的通天路，其实你传这个会被人笑话，传 apikey 的话大家什么都会做的
 
-### 那几个"特殊账号"，才是真的绝了
+### 而且你还留了注释
 
-初始提交的业务逻辑里，有两个号码被当作常量使用。
-
-[`packages/snowcat-onebot/api/msg.ts`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-onebot/api/msg.ts) 第 301 行与 419 行：
-
-> if (records && (records.peerUin === '284840486' || records.peerUin === '1094950020')) {
-
-第 1174 行，取不到群号时的兜底赋值：
-
-> resMsg.group_id = 284840486;
-
-[`packages/snowcat-onebot/action/go-cqhttp/GetForwardMsg.ts`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-onebot/action/go-cqhttp/GetForwardMsg.ts) 第 109 至 116 行，伪造一条空消息时：
-
-> peerUid: '284840486',peerUin: '284840486',senderUin: '1094950020',
-
-[`packages/snowcat-core/services/NodeIKernelMsgService.ts`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-core/services/NodeIKernelMsgService.ts) 第 164 行，接口注释里的调试样例：
-
-> // getMsgService/getMsgs { chatType: 2, peerUid: '975206796', privilegeFlag: 336068800 } 0 20 true
-
-归纳起来：有人的群号成了"临时会话"分支的默认返回值；有人的 QQ 号成了伪造消息的默认发送者；有人的 UID 成了接口文档里的样例。
-
-*这不是配置，这是把某个人的社交关系网当成了常量表。下次写代码记得把身份证号和银行卡也一起写进去，方便一点*
-
-### 它自己知道，还留了注释
-
-修复后的版本，[`packages/snowcat-core/helper/log.ts`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-core/helper/log.ts) 第 339 行写着：
+可以看见修复后的版本[`packages/snowcat-core/helper/log.ts`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-core/helper/log.ts) 第 339 行：
 
 > // 历史: 同 onebot/api/msg.ts 的特定会话特殊处理, 改为可配置数组, 默认空=不跳过。// 如需旧行为: NAPCAT_SPECIAL_PEER_UINS='<REDACTED>,<REDACTED>'
 
-第一句里那个"历史"，指的就是它自己的初始提交。而 `git show b9655a5` 一行命令，全部召回。
+好痒啊好想`git show b9655a5`怎么办，身上有蚂蚁在爬
 
-*注释里写着"历史"，代码里写着"可配置"，git 里写着"永远存在"。GitHub 的可贵之处就在于此，它记性比作者好*
+*GitHub 的可贵之处就在于此啊它记性绝对比作者好的*
 
-### 时间差，这才是最有戏剧性的部分
 
-[`CHARTER.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/CHARTER.md) 的"PR 纪律"第四条：
+### 个人机器路径清理小故事
 
-> 凭据红线：任何 QQ 号、密码、token、私钥不得入库，示例一律用 `<REDACTED>` 或环境变量。
-
-这条纪律的建立时间：**2026 年 11 月 13 日 04:52**。
-
-号码入库的时间：**2026 年 11 月 12 日 06:27**。
-
-*在写下这条规矩之前三十六个小时，它自己已经把这条规矩要禁的东西全部提交上去了。这是什么？这是能力越大责任越大，先上车后补票，先犯罪后立法，先上车后被车撞*
-
-### 个人机器路径：清的是别人家的
-
-提交 [7995c97](https://github.com/DandanLLab/SnowCatQQ/commit/7995c97) 的标题是：
+提交 [7995c97](https://github.com/DandanLLab/SnowCatQQ/commit/7995c97) 的标题是
 
 > fix(encoding): 清理接口注释中的个人机器路径与上游调试样本号 (#84)
 
-它清掉的是这一段：
+它清掉的是：
 
 > `C:\Users\nanaeo\AppData\Roaming\QQ\packages` → `<QQ数据目录>\packages`
 
-`nanaeo` 是上游 [NapCat](https://github.com/NapNeko/NapCatQQ) 作者的 Windows 用户名。这次清理，清的是别人家的路径。
-
-而同一仓库的 [`docs-open/dev/ARCHITECTURE-AUDIT.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/ARCHITECTURE-AUDIT.md) 里，作者自己机器的运行链原样保留：
+`nanaeo` 是上游 [NapCat](https://github.com/NapNeko/NapCatQQ) 作者的 Windows 用户名。对的是上游。同一仓库的 [`docs-open/dev/ARCHITECTURE-AUDIT.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/ARCHITECTURE-AUDIT.md) 里作者自己机器的运行链原样保留了。
 
 > schtasks \Tongling-Autostartpowershell C:\dsh\start-tongling.ps1"D:\NapCat.Shell.Windows.OneKey\NapCat.44498.Shell\QQ.exe"C:\dsh\.tmp\napcat-shell\NapCatWinBootHook.dllNapCatWinBootMain.exe (PID 5068)
 
-`C:\dsh` 残留 3 处，一处未动。同一次提交的说明另写着："全仓库严格 UTF-8 校验 0 损坏、0 BOM"。
-
-*清理个人机器路径的时候，清的是别人家的；自己家的任务计划名、盘符、PID 全在文档里挂着，还标着"师父亲定名"。作者大人您这不叫清理，这叫挑食*
-
 ---
 
-## 时至今日，作者的左右脑不仅没和解，还开始互相举报了
+## 你违反了规则
 
-### 一字节未动，与系统级硬改
+### 其实我也不知道为什么你这仓库会有禁词表这种筹集吧象的玩意
 
-[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 写：
+注意到仓库里有一份 [`docs-open/dev/AI-COLLAB-WRITING-CONSTRAINTS.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/AI-COLLAB-WRITING-CONSTRAINTS.md)，标题是《AI 协作写作的工程约束》，据我推断此文档可能是[作者](https://github.com/DandanLLab)专门为了回答 [issue #16](https://github.com/DandanLLab/SnowCatQQ/issues/16) 写的。
 
-> 全功能运行于 QQ 9.9.37-54395（官方最新版）主进程内，QQ 本体一字节未动。V8 编译器通道注入，官方最新版原生运行，QQ 本体零改动。
-
-同仓库 [`ARCHITECTURE-AUDIT.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/ARCHITECTURE-AUDIT.md) 标题：
-
-> SnowCat 雪猫：[融合魔改](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/ARCHITECTURE-AUDIT.md) QQ 客户端（NapCat + SnowLuma 合体）
-
-同文档"硬改点清单"第五条：
-
-> 注册表劫持——QQ 卸载项 UninstallString 指到 D:\...\OneKey\...\Uninstall.exe
-> 状态：✅ **实锤，系统级硬改**
-
-而 [`release-tools/build/snowcat-run.ps1`](https://github.com/DandanLLab/SnowCatQQ/blob/main/release-tools/build/snowcat-run.ps1) 第 85 至 92 行，实际做的事情是：
-
-> foreach ($bad in 'dbghelp.dll', 'dbgeng.dll') {    $p = Join-Path $app $bad    if (Test-Path $p) {        Move-Item $p "$p.disabled" -Force    }}Copy-Item $srcDll (Join-Path $Shell 'winmm.dll') -Force
-
-把 QQ 目录下的两个系统 DLL 改名，然后把一个名为 `winmm.dll` 的文件复制进去。
-
-*"一字节未动"和"改名两个系统 DLL 再塞一个代理进去"，住在同一个仓库里，隔着一层目录，谁也不认识谁*
-
-### 无任何外发，但是首页就在外发
-
-前端 [`pages/dashboard/about.tsx`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-webui-frontend/src/pages/dashboard/about.tsx) 第 81 行：
-
-> 一切动作都在本地执行，代码全开源白盒可查，**无任何外发**。
-
-[`pages/dashboard/index.tsx`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-webui-frontend/src/pages/dashboard/index.tsx) 第 166 行，渲染了 `Hitokoto` 组件。[`components/hitokoto.tsx`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-webui-frontend/src/components/hitokoto.tsx) 第 23 行：
-
-> request.get<IHitokoto>('https://hi.logacg.com/')
-
-每次打开控制台首页，都会向这个第三方地址发一次请求。
-
-> 哇啊啊有"无任何外发"这么严谨啊，这种断言你什么时候见过它成立
-
-关于 rkey，这里必须替它说句公道话：[`packages/snowcat-core/apis/file.ts`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-core/apis/file.ts) 定义了两个服务地址，第一个是明文 HTTP。我读完了 [`helper/rkey.ts`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-core/helper/rkey.ts) 的 `refreshRkey` 实现，确认它是 GET 拉取，**不是外发本机凭据**。准确的表述是：它把图片解密所依赖的 rkey 外包给了两个第三方服务，其中一个是明文 HTTP。这一点不能写成"泄露凭据"。
-
-*本段为全文唯一的辩护段落，请作者大人珍惜*
-
-### 159 条记录里没有 37
-
-[`packages/snowcat-core/external/appid.json`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-core/external/appid.json) 共 159 条版本记录。Windows 平台最新的五条是：
-
-> 9.9.31-49738、9.9.32-50828、9.9.32-50969、9.9.33-52230、9.9.35-52892
-
-没有 9.9.37。
-
-查不到时的回落顺序是：按完整版本号查表，查不到按大版本扫 QQ 安装目录，再查不到就用硬编码的 `537246092`。这个号在表里属于 9.9.15-28060。
-
-> 兄弟逗我呢，说好的 9.9.37 全功能适配呢
-
-[issue #73](https://github.com/DandanLLab/SnowCatQQ/issues/73) 里三位用户报告的现象与此同族：注入器日志有 `READY hooks=4`，`PATCHED` 那一行始终不出现。其中一位补了对照实验——把同一个 DLL 放进带 Low 完整性标签的目录，`PATCHED hit=internal_index origLen=59` 就出现了。
-
-*这是整个仓库最讲科学的一段，因为提出对照实验的是一个普通用户，不是作者*
-
-### 版本号：自己从自己那儿拉，拉了个空
-
-构建流程里有一句：从 [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) 拉最新 tag 注入版本号。
-
-那个仓库的 tags 现在是空数组。
-
-所以每次构建拿到的都是兜底值 `1.0.0-dev`。而[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 上挂的徽章是 `v6.0.0`。
-
-*这个逻辑的优美之处在于：它一边声称"接续上游"，一边在上游的墓前找版本号；上游的墓碑上什么都没刻，于是它给自己刻了个 v6.0.0*
-
----
-
-## 它自己定的规矩，它自己第一个违反
-
-### 禁词表：自己写的禁词，自己用得最欢
-
-仓库里有一份 [`docs-open/dev/AI-COLLAB-WRITING-CONSTRAINTS.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/dev/AI-COLLAB-WRITING-CONSTRAINTS.md)，标题是《AI 协作写作的工程约束》。这份文档是[作者](https://github.com/DandanLLab)专门为了回答 [issue #16](https://github.com/DandanLLab/SnowCatQQ/issues/16) 写的。
-
-里面有一张禁词表，原文：
+禁词表原文：
 
 > 性能吹：高性能 / 极致 / 丝滑 / 强大 / 卓越生态话术：赋能 / 生态 / 闭环 / 打通 / 全链路营销腔：旨在 / 致力于 / 助力 / 深耕AI 味连接词：综上所述 / 总而言之 / 值得注意的是 / 不可否认
 
-紧接着写："杀完之后 AI 的第一反应是写不出话。"
-
-统计结果：
+然后你仓库的统计结果：
 
 | 文件 | 字数 | "生态"出现次数 |
 |---|---|---|
 | [docs-open/ANNOUNCEMENT.md](https://github.com/DandanLLab/SnowCatQQ/blob/main/docs-open/ANNOUNCEMENT.md) | 9,580 | **16** |
 | [README.md](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) | 17,857 | **25** |
 
-*禁词表把"生态"列为必杀词。它的公告和 README 加起来用了 41 次。这不是禁词表，这是 41 次忠告，专门忠告自己*
+唉依旧滚木
 
+<img width="926" height="926" alt="image" src="https://github.com/user-attachments/assets/030bcef4-6fa7-4cbe-a77b-77eb5629f1f2" />
+
+> 禁词表 belike:
 ### 章程编号：1 2 3 4 5 6 7 9 8
 
 [`CHARTER.md`](https://github.com/DandanLLab/SnowCatQQ/blob/main/CHARTER.md) "发言规则"一节的编号是这样排列的：

@@ -16,19 +16,19 @@
 
 > 哇啊啊有制作这么精良的logo，这种协议端你什么时候用
 
-光看名字就知道是要吃[nc](https://github.com/NapNeko/NapCatQQ)和sl的[人血馒头](https://baike.baidu.com/item/%E4%BA%BA%E8%A1%80%E9%A6%92%E5%A4%B4?fromModule=lemma_search-box)，打算趁着两个协议端跑路包圆这一块的热度，事实上其开发者称自己的行为为“接续先行者铺下的路”；那么这个仓库在开源社区里究竟是一个什么东西呢？
+光看名字就知道是要吃[nc](https://github.com/NapNeko/NapCatQQ)和sl的[人血馒头](https://baike.baidu.com/item/%E4%BA%BA%E8%A1%80%E9%A6%92%E5%A4%B4?fromModule=lemma_search-box)，打算趁着两个协议端跑路包圆这一块的热度，[重大历史鲫鱼](https://zhuanlan.zhihu.com/p/590904864)这块。事实上其开发者称自己的行为为“接续先行者铺下的路”；那么这个仓库在开源社区里究竟是一个什么东西呢？
 
 
 史家据史直书，一字不改！
 
-且不说[拉格兰](https://github.com/LagrangeDev/Lagrange.Core)这种还在更新的协议库（它甚至已经把自己的 OneBot 端换成 Milky 了而与此同时[SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)还在 [读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里把 Milky 当成自己的兼容层卖点）；事实上倘若[雪猫](https://github.com/DandanLLab/SnowCatQQ)是个好协议端，在开源社区继续维护已经归档的仓库此类行为本身也是个好事——但是这个仓库实在是极为抽象以至于我在多个技术交流为主的QQ群都看到有群u对此事件发表锐评了，本着实事求是的想法，我想我也必须得对此仓库进行轰轰烈烈的真理大讨论
+且不说[拉格兰](https://github.com/LagrangeDev/Lagrange.Core)这种还在更新的协议库（它甚至已经把自己的 OneBot 端换成 Milky 了而与此同时[SnowCatQQ](https://github.com/DandanLLab/SnowCatQQ)还在 [读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md) 里把 Milky 当成自己的兼容层卖点）；事实上倘若[雪猫](https://github.com/DandanLLab/SnowCatQQ)是个好协议端，在开源社区继续维护已经归档的仓库此类行为本身也是个好事——但是这个仓库实在是极为抽象以至于我在多个技术交流为主的QQ群都看到有群u对此事件发表锐评了，本着实事求是、真理越辩越明的想法，我想我也必须得加入对此仓库进行的轰轰烈烈的真理大讨论
 
 全文除了玩梗不掺杂纯粹人身攻击，要说不带感情来评价这坨[旷世巨奋](https://github.com/DandanLLab/SnowCatQQ)是不可能的了因为我不相信有人看完这个仓库底下的一些 [issue](https://github.com/DandanLLab/SnowCatQQ/issues/13) 能忍住不笑出来以至于不产生“这波贪了应该再等几个月留着春晚看的”的想法——故请读者读完**自行得出自己的结论，不要跟着我起哄**，一人做事一人担
 
 <img width="1080" height="1480" alt="image" src="https://github.com/user-attachments/assets/eee93628-4ba1-4377-af7d-99924cf52979" />
 
 ### 定论：彻彻底底的 [AI SLOP](https://baike.baidu.com/item/AI%E5%9E%83%E5%9C%BE/67311830?fromModule=search-result_lemma)
-事先叠甲：[本人](https://github.com/Wojusensei)绝对尊重开源精神，支持使用 ai agent 进行辅助开发甚至于是承担 99% 的代码工作，只要是认真写好任务规划做好人工测试和 review 过核心模块的项目，使用ai并不会降低其含金量（提高生产力的事情为什么不做）。本人只反对一味鼓吹 ai 可以完全替代程序员、幻想利用ai可以不用学习任何东西就驾驭软件开发的傻逼而已（至少我认为这句话在2027年之前都是生效的）
+事先叠甲：[本人](https://github.com/Wojusensei)绝对尊重开源精神，支持且甚至于实践着使用 ai agent 进行辅助开发甚至于是承担 99% 的代码工作的开发行为，只要是认真写好任务规划做好人工测试和 review 过核心模块的项目，使用ai并不会降低其含金量（提高生产力的事情为什么不做）。本人只反对一味鼓吹 ai 可以完全替代程序员、幻想利用ai可以不用学习任何东西就驾驭软件开发的傻逼而已（至少我认为这句话在2027年之前都是生效的）
 
 <img width="1080" height="869" alt="a5bf9db307c7dc40eae26478f531c48b_720" src="https://github.com/user-attachments/assets/8a7d2189-3afe-469a-9afd-61acfca2b29d" />
 
@@ -38,27 +38,31 @@
 
 为什么我要专门说一点关于人工测试的问题呢，因为根据社区反馈[雪猫](https://github.com/DandanLLab/SnowCatQQ)这个协议端根本就没有可用性，登上QQ之后十分钟内必触发你腾讯叔叔的风控导致bot账号被踹下线or直接喜提 30DAY 大礼包
 
+Q：根本没有这样的协议端！
+A：你只是怕了
+
 <img width="1154" height="810" alt="e911c45a43a80f5c8f0810f3629a5c9c" src="https://github.com/user-attachments/assets/25d47632-e085-4b79-9c76-afa41a1939f3" />
 
 > 腾讯对待[雪猫](https://github.com/DandanLLab/SnowCatQQ)协议端就这样：
 
 
-只能说开智了自己会删库系列，哪怕是没人反对你用 ai ，好歹你这项目也要能用吧
-至今不知道仓库的 300+ star 到底是哪来的，只能说幽默社区的幽默开发者和ta的幽默用户神奇地达成了一种傻子共振，如果没有明白人介入估计这种共振会持续到宇宙热寂
-不幸的是，时至今日，我们的火力仍然倾泻在一只无辜的迫于 prompt 的压力不得不进行着诡异的 RP 的[傻鱼](https://chat.deepseek.com/)身上
+只能说[开智](https://baike.baidu.com/item/%E5%BC%80%E6%99%BA/802721)了自己会删库系列，哪怕是没人反对你用 ai ，好歹你这项目也要能用吧
+至今不知道仓库的 300+ star 到底是哪来的，只能说幽默社区的幽默开发者和ta的幽默用户神奇地达成了一种[傻子共振](https://xueshu.baidu.com/ndscholar/browse/search?wd=%E5%82%BB%E5%AD%90%E5%85%B1%E6%8C%AF&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1)，如果没有明白人介入估计这种共振会持续到宇宙热寂
+不幸的是，时至今日，我们的火力仍然倾泻在一只无辜的迫于 prompt 的压力不得不进行着诡异的 RP 的[蓝色大肥鱼](https://chat.deepseek.com/)身上
 
 <img width="972" height="972" alt="5465ad966105cda549586050b160d04f" src="https://github.com/user-attachments/assets/de845ad8-5d41-42b8-b378-4123672ce515" />
 
 > 作者眼里的所有人
 
 
-当我看到那个[SVG](https://baike.baidu.com/item/%E5%8F%AF%E7%BC%A9%E6%94%BE%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2/22819739?fromtitle=SVG&fromid=63178)logo的时候我就知道开源社区又迎来了一坨属于它的大分，精美程度和[豆包](https://baike.baidu.com/item/%E8%B1%86%E5%8C%85%E5%B7%A5%E4%BD%9C?fromModule=lemma_search-box)画的[鹈鹕自行车](https://baike.baidu.com/item/%E9%B9%88%E9%B9%95%E8%B8%A9%E5%8D%95%E8%BD%A6/69165703?fromModule=search-result_lemma)一桌，可谓是低山臭水遇至阴穷凶极恶双子星———很显然可以从文档语气等地方看出作者本人对此项目还算是骄傲的，而这样一个让其本人骄傲的项目居然有一个这么应付的招牌logo，有趣的是作者在提交记录中居然声称自己是手绘的，令人忍俊不禁
+当我看到那个[SVG](https://baike.baidu.com/item/%E5%8F%AF%E7%BC%A9%E6%94%BE%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2/22819739?fromtitle=SVG&fromid=63178)logo的时候我就知道开源社区又迎来了一坨属于它的大分，精美程度和[豆包](https://baike.baidu.com/item/%E8%B1%86%E5%8C%85%E5%B7%A5%E4%BD%9C?fromModule=lemma_search-box)画的[鹈鹕配自行车](https://baike.baidu.com/item/%E9%B9%88%E9%B9%95%E8%B8%A9%E5%8D%95%E8%BD%A6/69165703?fromModule=search-result_lemma)一桌，可谓是低山臭水遇至阴穷凶极恶双子星———很显然可以从文档语气等地方看出作者本人对此项目还算是骄傲的，而这样一个让其本人骄傲的项目居然有一个这么应付的招牌logo，有趣的是作者在提交记录中居然声称自己是手绘的，令人忍俊不禁
+事实上，就作者[张顺飞·菲巴芬钱](https://tieba.baidu.com/f?kw=%25D5%25C5%25CB%25B3%25B7%25C9&fr=ala0&tpl=5&dyTabStr=MCwxMiwzLDEsMiwxMyw3LDYsNSw5)一样的连回复 issue 都需要重度依赖[溜溜梅](https://baike.baidu.com/item/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/62884793)进行代笔的语言表达能力堪比一根[滚木](https://zhuanlan.zhihu.com/p/1910498558249002272)的水准，你要让其写 prompt 估计真是强人所难，更别提对 ai 画出来的 svg 提什么修改意见了
 
 <img width="1170" height="828" alt="cef167699c2a08b831f0a18bb89ef25e" src="https://github.com/user-attachments/assets/62928d3d-1d07-4d54-98a5-d44ca1f0a510" />
 
 > 作者的审美堪比两斤牛肉
 
-不可否认的是，[作者](https://github.com/DandanLLab)是一名熟练使用 **Chinese++** 编程语言进行开发的优秀程序员，而且具有充足的胆魄以至于其居然有勇气将这等[本世纪最伟大的作品](https://baike.baidu.com/item/AI%E5%9E%83%E5%9C%BE/67311830?fromModule=search-result_lemma) push 到开源社区给所有无辜的用户品鉴，果真是[吾辈楷模](https://baike.baidu.com/item/%E5%98%89%E8%B1%AA/66804028?fromModule=disambiguation)
+不可否认的是，[作者](https://github.com/DandanLLab)是一名熟练使用类 **Chinese++** 编程语言进行开发的优秀程序员，而且具有充足的胆魄以至于其居然有勇气将这等[本世纪最伟大的作品](https://baike.baidu.com/item/AI%E5%9E%83%E5%9C%BE/67311830?fromModule=search-result_lemma) push 到开源社区给所有无辜的用户品鉴，果真是[吾辈楷模](https://baike.baidu.com/item/%E5%98%89%E8%B1%AA/66804028?fromModule=disambiguation)
 
 ### 时至今日，作者的左右脑还未和解，愿世界和平
 
@@ -97,11 +101,11 @@
 | 11-12 07:16:38 | docs: 写“我们的信条” |
 | 11-12 07:18:15 | docs: 移除三项插件（师父令） |
 
-从[首次提交](https://github.com/DandanLLab/SnowCatQQ/commit/b9655a5ab19954f0396542f1c48f54dc59c44379)到[宣称能用的最后一次提交](https://github.com/DandanLLab/SnowCatQQ/commit/4bd67e3c9b54df5baa12dacd5f49850bf70157fb) 居然总共只花了 51 分钟，而且最后几次提交还几乎全都是文档变更，我们速度飞快效率极高生产力爆炸的[雪猫](https://github.com/DandanLLab/SnowCatQQ)开发者[蛋蛋呀](https://github.com/DandanLLab)大人的 Vibe Coding 技术可谓是炉火纯青，其 review 代码的速度已经超越了全体人类了，开源社区诞生一名宗门圣女[Jumping02](https://baike.baidu.com/item/%E5%A7%9C%E8%90%8D/68637978?fromModule=disambiguation)
+从[首次提交](https://github.com/DandanLLab/SnowCatQQ/commit/b9655a5ab19954f0396542f1c48f54dc59c44379)到[宣称能用的最后一次提交](https://github.com/DandanLLab/SnowCatQQ/commit/4bd67e3c9b54df5baa12dacd5f49850bf70157fb) 居然总共只花了 51 分钟，而且最后几次提交还几乎全都是文档变更，我们速度飞快效率极高生产力爆炸的[雪猫](https://github.com/DandanLLab/SnowCatQQ)开发者[蛋蛋呀](https://github.com/DandanLLab)大人的 Vibe Coding 技术可谓是炉火纯青，其 review 代码的速度已经超越了全体人类了，开源社区诞生一名宗门圣女[Jumping二号机](https://baike.baidu.com/item/%E5%A7%9C%E8%90%8D/68637978?fromModule=disambiguation)
 
 ## “我们”？
 
-该仓库[读我.妈的](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md)全文，“我们”这个词出现了 93 次( 统计数据来源于免费模型 inkling-2 )，与之配套的自称包括[Snowcat开发组](https://github.com/DandanLLab/SnowCatQQ)等等
+该仓库[读我.面对](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md)全文，“我们”这个词出现了 93 次( 统计数据来源于免费模型 inkling-2 )，与之配套的自称包括[Snowcat开发组](https://github.com/DandanLLab/SnowCatQQ)等等
 
 以下是 GitHub 上的 [contributors](https://github.com/DandanLLab/SnowCatQQ/graphs/contributors?from=2026%2F8%2F15) 实际构成：
 
@@ -134,7 +138,7 @@
 
 ### 哎我去怎么还有两份别人的 MIT
 
-对的你没看错我没看错**三份 LICENSE 文件**在同一个仓库里
+对的你没看错我也没看错**三份 LICENSE 文件**在同一个仓库里
 
 | 文件 | 内容 | 版权人 |
 |---|---|---|
@@ -144,7 +148,7 @@
 
 按 [雪猫](https://github.com/DandanLLab/SnowCatQQ) 自己的话说法，[`packages/` 是"底座移植"，`snowcat-webui-*` 是"自研"](https://github.com/DandanLLab/SnowCatQQ/blob/main/README.md)。
 
-这时候就有小伙伴要问了，“诶诶诶这个自研到底是谁研的呢？~~总不能是自己研磨吧~~”
+这时候就有小伙伴要问了，“老师老师这个自研到底是谁研的呢？~~总不能是自己研磨吧~~”
 
 [bietiaop](https://github.com/bietiaop) 名下有个仓库叫 [NextNapCatWebUI](https://github.com/bietiaop/NextNapCatWebUI)，开源协议为 MIT ，65 stars，2024 年 11 月 28 日建的，描述是"适用于 NapCat 的 WebUI"。而 [雪猫](https://github.com/DandanLLab/SnowCatQQ) 的 `packages/snowcat-webui-frontend/LICENSE` 第 3 行写着：
 
@@ -176,7 +180,7 @@
 
 在 npm 生态里，`package.json` 的 `license` 字段是授权声明的标准位置，然而我们我们聪明绝顶事无巨细的天才[雪猫](https://github.com/DandanLLab/SnowCatQQ)开发者[蛋蛋呀](https://github.com/DandanLLab)选择将这二十五个包全部留空，背后的原因令人暖心
 
-*ta花了点时间琢磨把徽章换成橙色的了*
+*bro突然意识到页面的呈现效果才是王道ta的神秘缝合怪仓库根本没技巧，于是花了点时间琢磨把徽章换成橙色的了*
 
 ### 徽章的进化史
 
@@ -231,9 +235,9 @@
 
 > [string]$Account = ''
 
-> 我去我去您知道要脱敏啊？？？
+我去原来您知道要脱敏啊？？？肯定不是因为自己的个人账号被[炎上](https://baike.baidu.com/item/%E7%82%8E%E4%B8%8A/49962185)了吧？
 
-*A/B 测试吗这是，一套支持隐私保护，一套还没收到师父令*，给作者指条能反转风评的通天路，其实你传这个会被人笑话，传 apikey 的话大家什么都会做的
+*A/B 测试吗这是，一套支持隐私保护，一套还没收到师父令*（我靠这个“师父令”真是你敢起我都不敢敲，豪到我了），给作者指条能反转风评的通天路，其实你传这个会被人笑话，但是要是传 apikey 的话大家什么都会做的
 
 ### 而且你还留了注释
 
@@ -291,6 +295,7 @@
 > 1. 对事不对人2. 凭据零容忍3. 广告与拉人4. 乐子的度量5. 引用要实6. 回复格式7. 维护者同样受约束9. 手写率台账8. 申诉
 
 第 9 条插在第 8 条前面...幼儿园数学老师也要跑路了
+跑得快有奖励跑得慢会被大象[ccb](https://wiki.ottohub.cn/index.php?title=%E8%B8%A9%E8%B8%A9%E8%83%8C)
 
 
 ### 以及你的 fork
@@ -303,13 +308,13 @@
 
 > 如果感兴趣可以自行 Fork，不再提供除版本更新以外内容，直到失效。如果追求稳定性更推荐官方 Bot，非常感谢一路陪伴。
 
-不知道的还以为你捡到传国玉玺了呢，传位于十四阿哥？我听见了，是四阿哥
+不知道的还以为你捡到传国玉玺了呢，传位于[十四阿哥](#)？我听见了，[是四阿哥](#)
 
 ## 师父令
 
 这玩意才是最抽象的，我真是头一次见到有人这样和ai玩RP的
 
-详细参考`git log` 和 `grep 师父` 
+详细参考`git log` 和 `grep 师父` ，不打出来是因为不想污染我的输入法
 
 ---
 
@@ -329,7 +334,7 @@
 
 署名：**童零 · SnowCat 开发组**
 
-其实我感觉这 agent 已经是开发组(我这里说开发组是出于礼貌)最像人的东西了，本来模型就傻地不是很擅长处理这种工程级别的代码，结果还要一边和伪人RP一边coding
+其实我感觉这 agent 已经是开发组(我这里说开发组是出于礼貌)最像人的东西了，本来ds这模型就傻地不是很擅长处理这种工程级别的代码，结果还要一边和伪人RP一边coding
 
 ---
 
@@ -384,7 +389,9 @@ GitHub 上查到的：
 
 **以及这个[作者](https://github.com/DandanLLab)自身的成分也是有问题的，而且不是小问题：作者本来有48个仓库，但是作者疑似遭到炎上，在此文编辑期间少了一个fork仓库**，至于这个仓库里面有什么内容这更是碰都不能碰的话题
 
-你敢 fork 那个仓库我都不敢写啊，你至少比我们多了十个脑袋
+<img width="720" height="596" alt="1c42bf3d59539df41e504d3b99e9f18d" src="https://github.com/user-attachments/assets/e7122913-7479-4c8f-a871-9157b3f25d55" />
+
+> 你敢 fork 那个仓库我都不敢写啊，你至少比我们多了十个脑袋（发了一张vv表情包）
 
 ## 宇宙安全声明
 

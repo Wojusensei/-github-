@@ -36,7 +36,16 @@
 
 我不知道这玩意是怎么让他有信心讲自己是“墨家开山授徒，将守城之法、造械之术倾囊相授”的，可能是这神秘开发者给dsh的prompt里面叫agent称呼自己为“师傅”而ai本身又只能遵从用户的命令所以只好捏着鼻子陪ta玩这种小孩子都觉得中二病的[RP](https://baike.baidu.com/item/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/68462)；总而言之给我的第一印象又是那种觉得“所有人都不会用ai只有我会”的[vibe coding](https://baike.baidu.com/item/%E6%B0%9B%E5%9B%B4%E7%BC%96%E7%A8%8B?fromModule=lemma_search-box)cosplay程序员的爱好者
 
-只能说开智了自己会删库系列
+为什么我要专门说一点关于人工测试的问题呢，因为根据社区反馈[雪猫](https://github.com/DandanLLab/SnowCatQQ)这个协议端根本就没有可用性，登上QQ之后十分钟内必触发你腾讯叔叔的风控导致bot账号被踹下线or直接喜提 30DAY 大礼包
+
+<img width="1154" height="810" alt="e911c45a43a80f5c8f0810f3629a5c9c" src="https://github.com/user-attachments/assets/25d47632-e085-4b79-9c76-afa41a1939f3" />
+
+> 腾讯对待[雪猫](https://github.com/DandanLLab/SnowCatQQ)协议端就这样：
+
+
+只能说开智了自己会删库系列，哪怕是没人反对你用 ai ，好歹你这项目也要能用吧
+至今不知道仓库的 300+ star 到底是哪来的，只能说幽默社区的幽默开发者和ta的幽默用户神奇地达成了一种傻子共振，如果没有明白人介入估计这种共振会持续到宇宙热寂
+不幸的是，时至今日，我们的火力仍然倾泻在一只无辜的迫于 prompt 的压力不得不进行着诡异的 RP 的[傻鱼](https://chat.deepseek.com/)身上
 
 <img width="972" height="972" alt="5465ad966105cda549586050b160d04f" src="https://github.com/user-attachments/assets/de845ad8-5d41-42b8-b378-4123672ce515" />
 
@@ -353,7 +362,7 @@ GitHub 上查到的：
 
 <img width="654" height="754" alt="image" src="https://github.com/user-attachments/assets/146ce6d6-9228-4247-9c76-83f9c64ac3c2" />
 
-> 事情败露后的作者：
+> 事情败露后的[作者](https://github.com/DandanLLab)：
 ---
 
 ## 你仓社区
@@ -364,6 +373,9 @@ GitHub 上查到的：
 
 > 不过幸运的是作者似乎让dsh独自承担了所有火力，可以看到几乎所有社区回复的含人量都严格卡死在[葛立恒数](https://baike.baidu.com/item/%E8%91%9B%E7%AB%8B%E6%81%92%E6%95%B0?fromModule=lemma_search-box)分之一以下，这下大肥鱼可惨了
 
+
+**以及这个[作者](https://github.com/DandanLLab)自身的成分也是有问题的，而且不是小问题：作者本来有48个仓库，但是在此文编辑期间少了一个fork仓库**
+你敢 fork 我都不敢写啊
 
 ## 宇宙安全声明
 

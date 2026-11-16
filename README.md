@@ -6,7 +6,6 @@
 
 > 因为使用到了 [Snowcat](https://github.com/DandanLLab/SnowCatQQ) 成为 [食雪汉](https://baike.baidu.com/item/%E6%88%91%E4%BF%AE%E9%99%A2?fromtitle=%E9%A3%9F%E9%9B%AA%E6%B1%89&fromid=65211459&fromModule=lemma_search-box)而面露难色的两位 QQbot 用户
 
-
 ---
 
 ## 为啥会有这事
@@ -17,7 +16,6 @@
 
 > 哇啊啊有制作这么精良的logo，这种协议端你什么时候用
 
-
 光看名字就知道是要吃[nc](https://github.com/NapNeko/NapCatQQ)和sl[人血馒头](https://baike.baidu.com/item/%E4%BA%BA%E8%A1%80%E9%A6%92%E5%A4%B4?fromModule=lemma_search-box)，打算趁着两个协议端跑路包圆这一块的热度，事实上其开发者称自己的行为为“接续先行者铺下的路”；那么这个仓库在开源社区里究竟是一个什么东西呢？
 
 史家据史直书，一字不改！
@@ -27,7 +25,6 @@
 全文除了玩梗不掺杂纯粹人身攻击，要说不带感情来评价这坨[旷世巨奋](https://github.com/DandanLLab/SnowCatQQ)是不可能的了因为我不相信有人看完这个仓库底下的一些 [issue](https://github.com/DandanLLab/SnowCatQQ/issues/13) 能忍住不笑出来以至于不产生“这波贪了应该再等几个月留着春晚看的”的想法——故请读者读完**自行得出自己的结论，不要跟着我起哄**，一人做事一人担
 
 <img width="1080" height="1480" alt="image" src="https://github.com/user-attachments/assets/eee93628-4ba1-4377-af7d-99924cf52979" />
-
 
 ### 时至今日，作者的左右脑还未和解，愿世界和平
 
@@ -41,13 +38,11 @@
 
 [雪猫](https://github.com/DandanLLab/SnowCatQQ)项目自己的公告里记录了[nc](https://github.com/NapNeko/NapCatQQ)和sl被杀的事情，此处不述。那此时，我们嗅觉灵敏思维敏捷反应迅速的[雪猫](https://github.com/DandanLLab/SnowCatQQ)开发者[蛋蛋呀](https://github.com/DandanLLab)大人当时在干什么开天辟地的大事呢？答案是：
 
-
 ## 嘿DSH，我要开始 wish coding 了
 
 <img width="570" height="658" alt="3fe996f8b1dc32767662a022f1327de3" src="https://github.com/user-attachments/assets/7afd4454-d589-43d1-8bf7-dab2ad7d6d2c" />
 
 > 此时的作者：
-
 
 ### 兄弟逗我呢 git 是这样 commit 的吗
 
@@ -100,8 +95,6 @@
 版权行写作：Copyright © 2024 Mlikiowa。
 
 这三段的含义是：修改后的代码不得公开分发。而这个仓库做的全部事情，就是修改这份代码并公开发布。
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000000" />
 
 > 哇啊啊有法律这么严谨啊，这种授权你什么时候见过它生效
 
@@ -241,8 +234,6 @@
 
 > [string]$Account = ''
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000001" />
-
 > 我去我去您知道要脱敏啊？？？
 
 *两个目录，两个同名文件，一个已经脱敏，一个没有。这叫灰度脱敏，A/B 测试，一套支持隐私保护，一套还没收到师父令*
@@ -352,8 +343,6 @@
 
 每次打开控制台首页，都会向这个第三方地址发一次请求。
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000002" />
-
 > 哇啊啊有"无任何外发"这么严谨啊，这种断言你什么时候见过它成立
 
 关于 rkey，这里必须替它说句公道话：[`packages/snowcat-core/apis/file.ts`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-core/apis/file.ts) 定义了两个服务地址，第一个是明文 HTTP。我读完了 [`helper/rkey.ts`](https://github.com/DandanLLab/SnowCatQQ/blob/main/packages/snowcat-core/helper/rkey.ts) 的 `refreshRkey` 实现，确认它是 GET 拉取，**不是外发本机凭据**。准确的表述是：它把图片解密所依赖的 rkey 外包给了两个第三方服务，其中一个是明文 HTTP。这一点不能写成"泄露凭据"。
@@ -369,8 +358,6 @@
 没有 9.9.37。
 
 查不到时的回落顺序是：按完整版本号查表，查不到按大版本扫 QQ 安装目录，再查不到就用硬编码的 `537246092`。这个号在表里属于 9.9.15-28060。
-
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000003" />
 
 > 兄弟逗我呢，说好的 9.9.37 全功能适配呢
 
@@ -422,8 +409,6 @@
 而第 9 条的内容是：
 
 > 维护组的正式公开回应逐步提高手写率……数字不考绩、只留痕，**手写的部分必须是人工愿意负责的部分**。
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000004" />
 
 > 哇啊啊有编号这么严谨啊，这种章程序号你什么时候见过它排对
 
@@ -496,8 +481,6 @@
 
 > 立档 2026-11-11 · **师父亲定名** SnowCat/雪猫
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000005" />
-
 > 哇啊啊有师徒这么情深啊，这种称呼你什么时候见它能不写进 commit
 
 *这不是传闻。这是 `git log` 和 `grep 师父` 的输出。一个人对着一个模型喊"师父"，然后把这个称呼写进提交信息、章节标题和代码注释。这已经不是工程流程了，这是连续剧*
@@ -529,8 +512,6 @@
 > #15 已严肃贡献代码
 
 **也就是说：「dsh 帮我把 SL 和 NC 合并起来」是社区在调侃；PR #15 是有人把这个梗真的做成了 PR——删掉 21 万行，只在 README 里加了 1 行。**
-
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000006" />
 
 > 兄弟逗我呢，这不叫优化代码，这叫格式化硬盘
 
@@ -585,8 +566,6 @@ UP 主自己发布的[动态](https://t.bilibili.com/1267458597271371816)，原�
 指南开头写着："面向导演、剪辑、动画开发、素材制作人员**及其 AI 助手**。"
 
 也就是说：这是一个 AI 生成画面、AI 配音、41 分 36 秒的视频，作者公开说明"烧掉几十亿 token""欢迎回血"。
-
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000007" />
 
 > 哇啊啊有产业链这么完整啊，这种闭环你什么时候见过
 
@@ -668,8 +647,6 @@ GitHub 上查到的：
 > 上游在，我们跟；上游没了，我们**扛**。
 > 这一次，**我们不会再让**。
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000008" />
-
 > 诶你怎么还Fork了
 
 *半个小时里发了三条"晚安"。半天前说"我们不会再让"，半天后说"我失去的只是一个通信工件，哈哈哈哈"。这两句话出自同一个人、同一天、相隔两小时。左脑在 GitHub 立誓，右脑在 B站 大笑，中间没开会*
@@ -695,8 +672,6 @@ GitHub 上查到的：
 > 四、容不下不同意见，打压实干者。
 
 这是 [雪猫](https://github.com/DandanLLab/SnowCatQQ) 立项前两个月。
-
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000009" />
 
 > 哇啊啊有反思这么深刻啊，这种自省你什么时候见过它真的自省
 
@@ -724,8 +699,6 @@ GitHub 上查到的：
 另有一条**未获回复**的用户求助，在视频 [BV1Q3th6VES6](https://www.bilibili.com/video/BV1Q3th6VES6) 下，2026-10-10：
 
 > 大佬，鸿蒙7打开鸿蒙版本就白屏，apk就可以使用，能修复吗
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000010" />
 
 > 不猜不猜
 
@@ -784,8 +757,6 @@ GitHub 上查到的：
 一个声明"全绿方才发版"的项目，唯一的发行版没有任何附件，tag 落后主干十三个提交，八成以上的包版本号是 0.0.1。
 
 一个声明"我们不会再让"的人，八小时内在另一个平台写下了"我失去的只是一个通信工件，哈哈哈哈"。
-
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000011" />
 
 > 可能看到此project后的小马哥
 

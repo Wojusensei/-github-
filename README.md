@@ -205,7 +205,7 @@
 
 > 感谢 [NapCat](https://github.com/NapNeko/NapCatQQ)（126,400+ ⭐）· 感谢 [SnowLuma](https://github.com/SnowLuma/SnowLuma)（283 ⭐）
 
-吃小数点这块，但是这点已经被很多人说了所以我就不继续了
+依旧忘进位这块，但是这点已经被很多人说了所以我就不继续了
 
 <img width="1024" height="1010" alt="73d59bc5282d5d122d722c51884a6aa3" src="https://github.com/user-attachments/assets/f145ebae-0ba2-445b-8b26-081535661376" />
 
@@ -293,7 +293,7 @@
 第 9 条插在第 8 条前面...幼儿园数学老师也要跑路了
 
 
-### 以及你的 frok
+### 以及你的 fork
 
 > Fork 不是僭越，是 [NapCat](https://github.com/NapNeko/NapCatQQ) 本人的**遗愿**。
 
@@ -303,7 +303,7 @@
 
 > 如果感兴趣可以自行 Fork，不再提供除版本更新以外内容，直到失效。如果追求稳定性更推荐官方 Bot，非常感谢一路陪伴。
 
-不知道的还以为你捡到传国玉玺了呢
+不知道的还以为你捡到传国玉玺了呢，传位于十四阿哥？我听见了，是四阿哥
 
 ## 师父令
 
@@ -382,8 +382,9 @@ GitHub 上查到的：
 > 不过幸运的是作者似乎让dsh独自承担了所有火力，可以看到几乎所有社区回复的含人量都严格卡死在[葛立恒数](https://baike.baidu.com/item/%E8%91%9B%E7%AB%8B%E6%81%92%E6%95%B0?fromModule=lemma_search-box)分之一以下，这下大肥鱼可惨了
 
 
-**以及这个[作者](https://github.com/DandanLLab)自身的成分也是有问题的，而且不是小问题：作者本来有48个仓库，但是在此文编辑期间少了一个fork仓库**
-你敢 fork 我都不敢写啊
+**以及这个[作者](https://github.com/DandanLLab)自身的成分也是有问题的，而且不是小问题：作者本来有48个仓库，但是作者疑似遭到炎上，在此文编辑期间少了一个fork仓库**，至于这个仓库里面有什么内容这更是碰都不能碰的话题
+
+你敢 fork 那个仓库我都不敢写啊，你至少比我们多了十个脑袋
 
 ## 宇宙安全声明
 

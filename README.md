@@ -7,6 +7,7 @@
 > 因为使用到了[Snowcat](https://github.com/DandanLLab/SnowCatQQ)成为[食雪汉](https://baike.baidu.com/item/%E6%88%91%E4%BF%AE%E9%99%A2?fromtitle=%E9%A3%9F%E9%9B%AA%E6%B1%89&fromid=65211459&fromModule=lemma_search-box)而面露难色的两位 QQbot 用户
 
 > [!IMPORTANT]
+> *声明：本文底稿的大部分篇幅均由由ai生成，考据方面均review完成，且经某碳基本地大模型修改后呈现效果显著提升*
 > **值得注意的是**，snowcat已经归档了，本文仅供鞭尸。btw，幽默地来讲大家等sc头七的时间会比sc的寿命还长
 ---
 
